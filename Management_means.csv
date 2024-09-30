@@ -1,117 +1,117 @@
-﻿Group,Question,Major,Class,Average
-Employer,Q.1,ACCOUNTING ,Financial Accounting,4.22
-Employer,Q.2,ACCOUNTING ,Managerial/Cost Accounting,4.11
-Employer,Q.3,ACCOUNTING ,Auditing,3.54
-Employer,Q.4,ACCOUNTING ,Business Income Tax,3.26
-Employer,Q.5,ACCOUNTING ,Fraud Detection/Internal Controls,3.78
-Employer,Q.6,ACCOUNTING ,Fund/Non-Profit Accounting,2.94
-Employer,Q.7,ACCOUNTING ,Intermediate Level Financial Accounting,3.61
-Employer,Q.8,ACCOUNTING ,Advanced Financial Accounting,3.27
-Employer,Q.9,ACCOUNTING ,Intermediate Level Managerial/Cost Accounting,3.64
-Employer,Q.10,ECONOMICS ,Macroeconomics,3.66
-Employer,Q.11,ECONOMICS ,Microeconomics,3.61
-Employer,Q.12,ECONOMICS ,Business Statistics,3.94
-Employer,Q.13,ECONOMICS ,Econometrics,3.32
-Employer,Q.14,ECONOMICS ,International Economics,2.99
-Employer,Q.15,ECONOMICS ,Intermediate Macroeconomics,3.12
-Employer,Q.16,ECONOMICS ,Intermediate Microeconomics,3.11
-Employer,Q.17,ECONOMICS ,Principles of Finance,4.38
-Employer,Q.18,ECONOMICS ,Employee Benefit Planning,3.71
-Employer,Q.19,ECONOMICS ,Financial Analysis,4.2
-Employer,Q.20,ECONOMICS ,Insurance & Risk Management,3.71
-Employer,Q.21,ECONOMICS ,Legal Aspects of Banking & Finance,3.48
-Employer,Q.22,ECONOMICS ,Personal Financial Management,3.54
-Employer,Q.23,ECONOMICS ,Securities Analysis,3.08
-Employer,Q.24,ECONOMICS ,Short-Term Financial Management,3.41
-Employer,Q.25,MARKETING ,Principles of Marketing,4.24
-Employer,Q.26,MARKETING ,Consumer Behavior,4.16
-Employer,Q.27,MARKETING ,International Marketing,2.91
-Employer,Q.28,MARKETING ,Internet Marketing,3.85
-Employer,Q.29,MARKETING ,Marketing Management,3.85
-Employer,Q.30,MARKETING ,Marketing Research & Analysis,3.73
-Employer,Q.31,MARKETING ,Product and Pricing Strategy,3.72
-Employer,Q.32,MARKETING ,Professional Selling,3.84
-Employer,Q.33,MARKETING ,Promotional Strategy,3.89
-Employer,Q.34,MARKETING ,Sales Management,3.84
-Employer,Q.35,MARKETING ,Principles of Management,4.61
-Employer,Q.36,MARKETING ,Business Intelligence/Data Mining/Decision Support Systems,3.91
-Employer,Q.37,MARKETING ,Business Internship,3.95
-Employer,Q.38,MARKETING ,"Business Law - Contracts, Sales & Professional Responsibility",3.8
-Employer,Q.39,MARKETING ,Business Law - Legal & Regulatory Environment,3.73
-Employer,Q.40,MARKETING ,Business Policy & Strategic Management,4.13
-Employer,Q.41,MARKETING ,Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software,4.05
-Employer,Q.42,MARKETING ,Human Resource Management,4.11
-Employer,Q.43,MARKETING ,Interdisciplinary Management Capstone Course,3.35
-Employer,Q.44,MARKETING ,International Business,2.95
-Employer,Q.45,MARKETING ,Management Information Systems (MIS),3.81
-Employer,Q.46,MARKETING ,Organizational Behavior,4.28
-Employer,Q.47,MARKETING ,Process Management,4.08
-Employer,Q.48,MARKETING ,Production/Operations Management,3.97
-Employer,Q.49,MARKETING ,Project Management,4.16
-Employer,Q.50,COMMUNICATIONS ,Business Communications (oral and written),4.77
-Employer,Q.51,COMMUNICATIONS ,Business Ethics,4.73
-Employer,Q.52,COMMUNICATIONS ,Intercultural Communications,4.13
-Employer,Q.53,COMMUNICATIONS ,Interpersonal Communications,4.49
-Employer,Q.54,COMMUNICATIONS ,Leadership,4.71
-Employer,Q.55,COMMUNICATIONS ,Organizational Communication,4.57
-Employer,Q.56,COMMUNICATIONS ,Professionalism,4.75
-Employer,Q.57,COMMUNICATIONS ,Public Speaking,4.35
-Employer,Q.58,COMMUNICATIONS ,Small Group Communications,4.46
-Educator,Q.1,ACCOUNTING ,Financial Accounting,4.69
-Educator,Q.2,ACCOUNTING ,Managerial/Cost Accounting,4.57
-Educator,Q.3,ACCOUNTING ,Auditing,3.09
-Educator,Q.4,ACCOUNTING ,Business Income Tax,3.27
-Educator,Q.5,ACCOUNTING ,Fraud Detection/Internal Controls,3.31
-Educator,Q.6,ACCOUNTING ,Fund/Non-Profit Accounting,2.71
-Educator,Q.7,ACCOUNTING ,Intermediate Level Financial Accounting,3.42
-Educator,Q.8,ACCOUNTING ,Advanced Financial Accounting,2.91
-Educator,Q.9,ACCOUNTING ,Intermediate Level Managerial/Cost Accounting,3.28
-Educator,Q.10,ECONOMICS ,Macroeconomics,4.44
-Educator,Q.11,ECONOMICS ,Microeconomics,4.51
-Educator,Q.12,ECONOMICS ,Business Statistics,4.61
-Educator,Q.13,ECONOMICS ,Econometrics,3.12
-Educator,Q.14,ECONOMICS ,International Economics,3.44
-Educator,Q.15,ECONOMICS ,Intermediate Macroeconomics,2.75
-Educator,Q.16,ECONOMICS ,Intermediate Microeconomics,2.75
-Educator,Q.17,ECONOMICS ,Principles of Finance,4.88
-Educator,Q.18,ECONOMICS ,Employee Benefit Planning,3.05
-Educator,Q.19,ECONOMICS ,Financial Analysis,4.3
-Educator,Q.20,ECONOMICS ,Insurance & Risk Management,3.32
-Educator,Q.21,ECONOMICS ,Legal Aspects of Banking & Finance,3.23
-Educator,Q.22,ECONOMICS ,Personal Financial Management,3.46
-Educator,Q.23,ECONOMICS ,Securities Analysis,2.95
-Educator,Q.24,ECONOMICS ,Short-Term Financial Management,3.26
-Educator,Q.25,MARKETING ,Principles of Marketing,4.73
-Educator,Q.26,MARKETING ,Consumer Behavior,3.77
-Educator,Q.27,MARKETING ,International Marketing,3.47
-Educator,Q.28,MARKETING ,Internet Marketing,3.47
-Educator,Q.29,MARKETING ,Marketing Management,3.47
-Educator,Q.30,MARKETING ,Marketing Research & Analysis,3.59
-Educator,Q.31,MARKETING ,Product and Pricing Strategy,3.47
-Educator,Q.32,MARKETING ,Professional Selling,3.28
-Educator,Q.33,MARKETING ,Promotional Strategy,3.12
-Educator,Q.34,MARKETING ,Sales Management,3.15
-Educator,Q.35,MARKETING ,Principles of Management,4.65
-Educator,Q.36,MARKETING ,Business Intelligence/Data Mining/Decision Support Systems,3.72
-Educator,Q.37,MARKETING ,Business Internship,3.88
-Educator,Q.38,MARKETING ,"Business Law - Contracts, Sales & Professional Responsibility",3.92
-Educator,Q.39,MARKETING ,Business Law - Legal & Regulatory Environment,3.99
-Educator,Q.40,MARKETING ,Business Policy & Strategic Management,4.16
-Educator,Q.41,MARKETING ,Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software,3.69
-Educator,Q.42,MARKETING ,Human Resource Management,3.69
-Educator,Q.43,MARKETING ,Interdisciplinary Management Capstone Course,3.75
-Educator,Q.44,MARKETING ,International Business,3.83
-Educator,Q.45,MARKETING ,Management Information Systems (MIS),3.88
-Educator,Q.46,MARKETING ,Organizational Behavior,3.76
-Educator,Q.47,MARKETING ,Process Management,3.28
-Educator,Q.48,MARKETING ,Production/Operations Management,3.88
-Educator,Q.49,MARKETING ,Project Management,3.88
-Educator,Q.50,COMMUNICATIONS ,Business Communications (oral and written),4.88
-Educator,Q.51,COMMUNICATIONS ,Business Ethics,4.43
-Educator,Q.52,COMMUNICATIONS ,Intercultural Communications,3.61
-Educator,Q.53,COMMUNICATIONS ,Interpersonal Communications,4
-Educator,Q.54,COMMUNICATIONS ,Leadership,3.76
-Educator,Q.55,COMMUNICATIONS ,Organizational Communication,3.71
-Educator,Q.56,COMMUNICATIONS ,Professionalism,3.76
-Educator,Q.57,COMMUNICATIONS ,Public Speaking,4.05
-Educator,Q.58,COMMUNICATIONS ,Small Group Communications,3.84
+Group	Question	Major	Class	Average
+Employer	Q.1	ACCOUNTING 	Financial Accounting	4.22
+Employer	Q.2	ACCOUNTING 	Managerial/Cost Accounting	4.11
+Employer	Q.3	ACCOUNTING 	Auditing	3.54
+Employer	Q.4	ACCOUNTING 	Business Income Tax	3.26
+Employer	Q.5	ACCOUNTING 	Fraud Detection/Internal Controls	3.78
+Employer	Q.6	ACCOUNTING 	Fund/Non-Profit Accounting	2.94
+Employer	Q.7	ACCOUNTING 	Intermediate Level Financial Accounting	3.61
+Employer	Q.8	ACCOUNTING 	Advanced Financial Accounting	3.27
+Employer	Q.9	ACCOUNTING 	Intermediate Level Managerial/Cost Accounting	3.64
+Employer	Q.10	ECONOMICS 	Macroeconomics	3.66
+Employer	Q.11	ECONOMICS 	Microeconomics	3.61
+Employer	Q.12	ECONOMICS 	Business Statistics	3.94
+Employer	Q.13	ECONOMICS 	Econometrics	3.32
+Employer	Q.14	ECONOMICS 	International Economics	2.99
+Employer	Q.15	ECONOMICS 	Intermediate Macroeconomics	3.12
+Employer	Q.16	ECONOMICS 	Intermediate Microeconomics	3.11
+Employer	Q.17	FINANCE	Principles of Finance	4.38
+Employer	Q.18	FINANCE	Employee Benefit Planning	3.71
+Employer	Q.19	FINANCE	Financial Analysis	4.2
+Employer	Q.20	FINANCE	Insurance & Risk Management	3.71
+Employer	Q.21	FINANCE	Legal Aspects of Banking & Finance	3.48
+Employer	Q.22	FINANCE	Personal Financial Management	3.54
+Employer	Q.23	FINANCE	Securities Analysis	3.08
+Employer	Q.24	FINANCE	Short-Term Financial Management	3.41
+Employer	Q.25	MARKETING 	Principles of Marketing	4.24
+Employer	Q.26	MARKETING 	Consumer Behavior	4.16
+Employer	Q.27	MARKETING 	International Marketing	2.91
+Employer	Q.28	MARKETING 	Internet Marketing	3.85
+Employer	Q.29	MARKETING 	Marketing Management	3.85
+Employer	Q.30	MARKETING 	Marketing Research & Analysis	3.73
+Employer	Q.31	MARKETING 	Product and Pricing Strategy	3.72
+Employer	Q.32	MARKETING 	Professional Selling	3.84
+Employer	Q.33	MARKETING 	Promotional Strategy	3.89
+Employer	Q.34	MARKETING 	Sales Management	3.84
+Employer	Q.35	MANAGEMENT	Principles of Management	4.61
+Employer	Q.36	MANAGEMENT	Business Intelligence/Data Mining/Decision Support Systems	3.91
+Employer	Q.37	MANAGEMENT	Business Internship	3.95
+Employer	Q.38	MANAGEMENT	"Business Law - Contracts, Sales & Professional Responsibility"	3.8
+Employer	Q.39	MANAGEMENT	Business Law - Legal & Regulatory Environment	3.73
+Employer	Q.40	MANAGEMENT	Business Policy & Strategic Management	4.13
+Employer	Q.41	MANAGEMENT	Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software	4.05
+Employer	Q.42	MANAGEMENT	Human Resource Management	4.11
+Employer	Q.43	MANAGEMENT	Interdisciplinary Management Capstone Course	3.35
+Employer	Q.44	MANAGEMENT	International Business	2.95
+Employer	Q.45	MANAGEMENT	Management Information Systems (MIS)	3.81
+Employer	Q.46	MANAGEMENT	Organizational Behavior	4.28
+Employer	Q.47	MANAGEMENT	Process Management	4.08
+Employer	Q.48	MANAGEMENT	Production/Operations Management	3.97
+Employer	Q.49	MANAGEMENT	Project Management	4.16
+Employer	Q.50	COMMUNICATIONS 	Business Communications (oral and written)	4.77
+Employer	Q.51	COMMUNICATIONS 	Business Ethics	4.73
+Employer	Q.52	COMMUNICATIONS 	Intercultural Communications	4.13
+Employer	Q.53	COMMUNICATIONS 	Interpersonal Communications	4.49
+Employer	Q.54	COMMUNICATIONS 	Leadership	4.71
+Employer	Q.55	COMMUNICATIONS 	Organizational Communication	4.57
+Employer	Q.56	COMMUNICATIONS 	Professionalism	4.75
+Employer	Q.57	COMMUNICATIONS 	Public Speaking	4.35
+Employer	Q.58	COMMUNICATIONS 	Small Group Communications	4.46
+Educator	Q.1	ACCOUNTING 	Financial Accounting	4.69
+Educator	Q.2	ACCOUNTING 	Managerial/Cost Accounting	4.57
+Educator	Q.3	ACCOUNTING 	Auditing	3.09
+Educator	Q.4	ACCOUNTING 	Business Income Tax	3.27
+Educator	Q.5	ACCOUNTING 	Fraud Detection/Internal Controls	3.31
+Educator	Q.6	ACCOUNTING 	Fund/Non-Profit Accounting	2.71
+Educator	Q.7	ACCOUNTING 	Intermediate Level Financial Accounting	3.42
+Educator	Q.8	ACCOUNTING 	Advanced Financial Accounting	2.91
+Educator	Q.9	ACCOUNTING 	Intermediate Level Managerial/Cost Accounting	3.28
+Educator	Q.10	ECONOMICS 	Macroeconomics	4.44
+Educator	Q.11	ECONOMICS 	Microeconomics	4.51
+Educator	Q.12	ECONOMICS 	Business Statistics	4.61
+Educator	Q.13	ECONOMICS 	Econometrics	3.12
+Educator	Q.14	ECONOMICS 	International Economics	3.44
+Educator	Q.15	ECONOMICS 	Intermediate Macroeconomics	2.75
+Educator	Q.16	ECONOMICS 	Intermediate Microeconomics	2.75
+Educator	Q.17	FINANCE	Principles of Finance	4.88
+Educator	Q.18	FINANCE	Employee Benefit Planning	3.05
+Educator	Q.19	FINANCE	Financial Analysis	4.3
+Educator	Q.20	FINANCE	Insurance & Risk Management	3.32
+Educator	Q.21	FINANCE	Legal Aspects of Banking & Finance	3.23
+Educator	Q.22	FINANCE	Personal Financial Management	3.46
+Educator	Q.23	FINANCE	Securities Analysis	2.95
+Educator	Q.24	FINANCE	Short-Term Financial Management	3.26
+Educator	Q.25	MARKETING 	Principles of Marketing	4.73
+Educator	Q.26	MARKETING 	Consumer Behavior	3.77
+Educator	Q.27	MARKETING 	International Marketing	3.47
+Educator	Q.28	MARKETING 	Internet Marketing	3.47
+Educator	Q.29	MARKETING 	Marketing Management	3.47
+Educator	Q.30	MARKETING 	Marketing Research & Analysis	3.59
+Educator	Q.31	MARKETING 	Product and Pricing Strategy	3.47
+Educator	Q.32	MARKETING 	Professional Selling	3.28
+Educator	Q.33	MARKETING 	Promotional Strategy	3.12
+Educator	Q.34	MARKETING 	Sales Management	3.15
+Educator	Q.35	MANAGEMENT	Principles of Management	4.65
+Educator	Q.36	MANAGEMENT	Business Intelligence/Data Mining/Decision Support Systems	3.72
+Educator	Q.37	MANAGEMENT	Business Internship	3.88
+Educator	Q.38	MANAGEMENT	"Business Law - Contracts, Sales & Professional Responsibility"	3.92
+Educator	Q.39	MANAGEMENT	Business Law - Legal & Regulatory Environment	3.99
+Educator	Q.40	MANAGEMENT	Business Policy & Strategic Management	4.16
+Educator	Q.41	MANAGEMENT	Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software	3.69
+Educator	Q.42	MANAGEMENT	Human Resource Management	3.69
+Educator	Q.43	MANAGEMENT	Interdisciplinary Management Capstone Course	3.75
+Educator	Q.44	MANAGEMENT	International Business	3.83
+Educator	Q.45	MANAGEMENT	Management Information Systems (MIS)	3.88
+Educator	Q.46	MANAGEMENT	Organizational Behavior	3.76
+Educator	Q.47	MANAGEMENT	Process Management	3.28
+Educator	Q.48	MANAGEMENT	Production/Operations Management	3.88
+Educator	Q.49	MANAGEMENT	Project Management	3.88
+Educator	Q.50	COMMUNICATIONS 	Business Communications (oral and written)	4.88
+Educator	Q.51	COMMUNICATIONS 	Business Ethics	4.43
+Educator	Q.52	COMMUNICATIONS 	Intercultural Communications	3.61
+Educator	Q.53	COMMUNICATIONS 	Interpersonal Communications	4
+Educator	Q.54	COMMUNICATIONS 	Leadership	3.76
+Educator	Q.55	COMMUNICATIONS 	Organizational Communication	3.71
+Educator	Q.56	COMMUNICATIONS 	Professionalism	3.76
+Educator	Q.57	COMMUNICATIONS 	Public Speaking	4.05
+Educator	Q.58	COMMUNICATIONS 	Small Group Communications	3.84
