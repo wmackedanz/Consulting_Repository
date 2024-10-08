@@ -1,0 +1,538 @@
+Year,ED Age at Time of Visit (Years),Emergency Department,ED Primary Diagnosis,ED Disposition,BH Boarding Start To Depart (minutes)
+2023,9,RST ROMB ED,Behavioral Spell,Transfer to Health Care Facility,2059
+2023,10,RST ROMB ED,Problem Behavioral Child,Discharge,24139
+2023,10,RST ROMB ED,Suicide Ideation,Admit,75
+2023,11,RST ROMB ED,Suicide Ideation,Admit,640
+2023,11,RST ROMB ED,Unspecified Behavioral Syndromes Associated With Physiological Disturbances And Physical Factors,Discharge,821
+2023,12,RST ROMB ED,Problem Behavioral Child,Discharge,798
+2023,12,RST ROMB ED,Attention Deficit With Hyperactivity Disorder,Relocation,12644
+2023,12,RST ROMB ED,Problem Behavioral Child,Discharge,173
+2023,13,RST ROMB ED,Homicidal Ideations,Discharge,4114
+2023,13,RST ROMB ED,Behavioral Spell,Discharge,5474
+2023,14,RST ROMB ED,Behavioral Spell,Discharge,99327
+2023,14,RST ROMB ED,Problem Behavioral Child,Discharge,777
+2023,14,RST ROMB ED,Suicide Ideation,Admit,579
+2023,14,RST ROMB ED,Coping Ineffective,Discharge,459
+2023,15,RST ROMB ED,Problem Behavioral Child,Discharge,569
+2023,15,RST ROMB ED,Overdose Drug Initial,Discharge,2456
+2023,15,RST ROMB ED,Suicide Ideation,Discharge,718
+2023,15,RST ROMB ED,Suicide Ideation,Discharge,4940
+2023,16,RST ROMB ED,Behavioral Spell,Discharge,349
+2023,16,RST ROMB ED,Problem Behavioral Adolescent,Discharge,51
+2023,16,RST ROMB ED,Conversion Disorder,Discharge,581
+2023,16,RST ROMB ED,Depressive Disorder,Admit,254
+2023,17,RST ROMB ED,Suicide Attempt Subsequent Encounter (HCC),Admit,423
+2023,17,RST ROMB ED,Suicide Ideation,Admit,314
+2023,17,RST ROMB ED,Suicide Ideation,Discharge,753
+2023,17,RST ROMB ED,Suicide Ideation,Discharge,2173
+2023,17,RST ROMB ED,Suicide Ideation,Discharge,8198
+2023,17,RST ROMB ED,Suicide Ideation,Discharge,558
+2023,18,RST ROMB ED,Alcohol Abuse With Intoxication Unspecified (HCC),Discharge,2871
+2023,18,RST ROMB ED,Schizophrenia (HCC),Discharge,983
+2023,18,RST ROMB ED,Bipolar Disorder Current Episode Manic Without Psychotic Features (HCC),Admit,1274
+2023,19,RST ROMB ED,Homicidal Ideations,Relocation,5380
+2023,19,RST ROMB ED,Depression Major Recurrent Severe (HCC),Admit,571
+2023,19,RST ROMB ED,Suicide Ideation,Discharge,241
+2023,19,RST ROMB ED,Suicide Ideation,Admit,628
+2023,19,RST ROMB ED,,Relocation,2770
+2023,19,RST ROMB ED,Suicide Ideation,Discharge,196
+2023,19,RST ROMB ED,Suicide Ideation,Admit,2013
+2023,19,RST ROMB ED,Agitation,Discharge,1016
+2023,20,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,4043
+2023,20,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,885
+2023,20,RST ROMB ED,Anxiety,Admit,804
+2023,20,RST ROMB ED,Suicide Ideation,Discharge,104
+2023,20,RST ROMB ED,Suicide Ideation,Admit,8330
+2023,20,RST ROMB ED,Suicide Ideation,Admit,258
+2023,20,RST ROMB ED,Depression Major Recurrent Severe Without Psychotic Features (HCC),Admit,82
+2023,20,RST ROMB ED,Depression Major Recurrent Severe Without Psychotic Features (HCC),Admit,792
+2023,21,RST ROMB ED,Suicide Ideation,Admit,620
+2023,22,RST ROMB ED,Schizophrenia Catatonic (HCC),Admit,260
+2023,22,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,433
+2023,22,RST ROMB ED,Bipolar Disorder (HCC),Admit,2260
+2023,22,RST ROMB ED,Manic Episode Severe With Psychotic Symptoms (HCC),Discharge,844
+2023,22,RST ROMB ED,Paranoid State (HCC),,1419
+2023,22,RST ROMB ED,Suicide Ideation,Admit,144
+2023,22,RST ROMB ED,Suicide Ideation,Relocation,962
+2023,22,RST ROMB ED,Suicide Ideation,Admit,852
+2023,23,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,20582
+2023,23,RST ROMB ED,Anxiety,Admit,377
+2023,23,RST ROMB ED,Suicide Ideation,Admit,1058
+2023,23,RST ROMB ED,Suicide Ideation,Discharge,2780
+2023,23,RST ROMB ED,Anxiety,Admit,1335
+2023,23,RST ROMB ED,Manic Episode Severe With Psychotic Symptoms (HCC),Discharge,1978
+2023,23,RST ROMB ED,Mood Disorder (HCC),Transfer to Health Care Facility,3607
+2023,23,RST ROMB ED,Manic Episode Moderate Without Psychotic Symptoms (HCC),Discharge,804
+2023,23,RST ROMB ED,Suicide Ideation,Discharge,1859
+2023,23,RST ROMB ED,Catatonic Disorder Due To Known Physiological Condition,Admit,171
+2023,24,RST ROMB ED,Suicide Ideation,Admit,3749
+2023,24,RST ROMB ED,Suicide Ideation,Discharge,972
+2023,24,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,1140
+2023,24,RST ROMB ED,Schizoaffective Disorder Bipolar Type (HCC),Admit,298
+2023,25,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Relocation,6950
+2023,25,RST ROMB ED,Bipolar Disorder Current Episode Manic Severe Without Psychotic Features (HCC),Admit,850
+2023,25,RST ROMB ED,Depression Major Recurrent Severe (HCC),Admit,821
+2023,25,RST ROMB ED,Depression Major,Admit,313
+2023,25,RST ROMB ED,Other Psychoactive Substance Use Unspecified With Psychoactive Substance Induced Psychotic Disorder Unspecified (HCC),Discharge,726
+2023,26,RST ROMB ED,Bipolar I Disorder Severe Mixed With Psychosis (HCC),Admit,4396
+2023,26,RST ROMB ED,Suicide Ideation,Discharge,669
+2023,26,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,293
+2023,26,RST ROMB ED,Suicide Ideation,Admit,2270
+2023,26,RST ROMB ED,Schizoaffective Disorder Bipolar Type (HCC),Admit,1594
+2023,26,RST ROMB ED,Bipolar Disorder Current Episode Manic Severe With Psychotic Features (HCC),Admit,1461
+2023,26,RST ROMB ED,Suicide Ideation,Admit,1281
+2023,26,RST ROMB ED,Suicide Ideation,Admit,2329
+2023,26,RST ROMB ED,Schizoaffective Disorder Bipolar Type (HCC),Admit,536
+2023,26,RST ROMB ED,Suicide Ideation,Discharge,705
+2023,27,RST ROMB ED,Suicide Ideation,Admit,612
+2023,27,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,2844
+2023,27,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,543
+2023,27,RST ROMB ED,Bipolar I Disorder Severe Mixed With Psychosis (HCC),Admit,2407
+2023,27,RST ROMB ED,Suicide Ideation,Discharge,660
+2023,28,RST ROMB ED,Hallucination,Discharge,185
+2023,28,RST ROMB ED,Suicide Ideation,Discharge,2112
+2023,28,RST ROMB ED,Schizophrenia (HCC),Discharge,3656
+2023,28,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,560
+2023,28,RST ROMB ED,Hallucination Auditory,Admit,2320
+2023,28,RST ROMB ED,Suicide Ideation,Discharge,1264
+2023,29,RST ROMB ED,Suicide Attempt Initial Encounter (HCC),Admit,1317
+2023,29,RST ROMB ED,Change Mental Status,Admit,3190
+2023,29,RST ROMB ED,Suicide Ideation,Discharge,1590
+2023,29,RST ROMB ED,Suicide Ideation,Discharge,916
+2023,29,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,4268
+2023,30,RST ROMB ED,Depression Major,Discharge,15675
+2023,30,RST ROMB ED,Depression Major Recurrent Severe (HCC),Admit,577
+2023,30,RST ROMB ED,Paranoid State (HCC),Admit,1107
+2023,30,RST ROMB ED,Suicide Ideation,Discharge,1083
+2023,30,RST ROMB ED,Suicide Ideation,Discharge,10591
+2023,30,RST ROMB ED,Suicide Ideation,Discharge,3425
+2023,30,RST ROMB ED,Suicide Ideation,Admit,1089
+2023,31,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,1013
+2023,31,RST ROMB ED,Bipolar Disorder (HCC),Admit,1985
+2023,31,RST ROMB ED,Paranoid State (HCC),Admit,7780
+2023,31,RST ROMB ED,Suicide Ideation,Admit,997
+2023,31,RST ROMB ED,Unsheltered Homelessness,Discharge,422
+2023,31,RST ROMB ED,Manic Episode Moderate Without Psychotic Symptoms (HCC),Admit,1320
+2023,31,RST ROMB ED,Dehydration,Discharge,1383
+2023,31,RST ROMB ED,Paranoid State (HCC),Admit,1541
+2023,32,RST ROMB ED,Depression Major Recurrent Severe Without Psychotic Features (HCC),Admit,506
+2023,32,RST ROMB ED,Paranoid State (HCC),Admit,1024
+2023,32,RST ROMB ED,Suicide Ideation,Admit,1559
+2023,32,RST ROMB ED,Suicide Ideation,Admit,642
+2023,32,RST ROMB ED,Suicide Ideation,Admit,3746
+2023,32,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,1013
+2023,32,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,905
+2023,32,RST ROMB ED,Suicide Ideation,Admit,1273
+2023,32,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,741
+2023,32,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,1360
+2023,32,RST ROMB ED,Anxiety,Discharge,949
+2023,32,RST ROMB ED,Pain Joint Foot Bilateral,Discharge,798
+2023,32,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,726
+2023,33,RST ROMB ED,Suicide Ideation,Discharge,475
+2023,33,RST ROMB ED,Suicide Attempt Initial Encounter (HCC),Admit,367
+2023,33,RST ROMB ED,Bipolar I Manic Severe With Psychosis One Episode (HCC),Admit,7071
+2023,33,RST ROMB ED,Depression,Admit,834
+2023,33,RST ROMB ED,Suicide Ideation,Admit,1258
+2023,33,RST ROMB ED,Suicide Ideation,Admit,1716
+2023,33,RST ROMB ED,Other Psychoactive Substance Abuse With Other Psychoactive Substance Induced Disorder (HCC),Discharge,296
+2023,33,RST ROMB ED,Suicide Ideation,Relocation,1858
+2023,33,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,1662
+2023,34,RST ROMB ED,Bipolar Disorder Current Episode Manic Moderate Without Psychotic Features (HCC),Admit,1231
+2023,34,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Discharge,3178
+2023,34,RST ROMB ED,Paranoid State (HCC),Discharge,11090
+2023,34,RST ROMB ED,Agitation,Discharge,19715
+2023,34,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,1260
+2023,34,RST ROMB ED,Suicide Ideation,Admit,644
+2023,34,RST ROMB ED,Insufficiency Adrenal Secondary (HCC),Admit,6655
+2023,34,RST ROMB ED,Suicide Ideation,Admit,1123
+2023,34,RST ROMB ED,Suicide Ideation,Admit,1381
+2023,34,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Discharge,1709
+2023,35,RST ROMB ED,Other Stimulant Mild Use Disorder (Abuse) Uncomplicated (HCC),Discharge,143
+2023,35,RST ROMB ED,Suicide Ideation,Admit,493
+2023,35,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,2910
+2023,35,RST ROMB ED,Suicide Ideation,Discharge,2266
+2023,35,RST ROMB ED,Pain Chest,Discharge,88
+2023,35,RST ROMB ED,,Discharge,820
+2023,35,RST ROMB ED,Violent Behavior,Discharge,774
+2023,35,RST ROMB ED,Suicide Ideation,Admit,126
+2023,36,RST ROMB ED,Alcohol Abuse With Intoxication Unspecified (HCC),Relocation,759
+2023,36,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,1483
+2023,36,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,3853
+2023,36,RST ROMB ED,Suicide Ideation,Discharge,734
+2023,36,RST ROMB ED,Bipolar Disorder Current Episode Hypomanic (HCC),Admit,1256
+2023,37,RST ROMB ED,Dependence Polysubstance (HCC),Relocation,15356
+2023,37,RST ROMB ED,Post Concussion Syndrome,Relocation,8580
+2023,37,RST ROMB ED,Anxiety,Admit,247
+2023,37,RST ROMB ED,Anxiety,Discharge,1319
+2023,38,RST ROMB ED,Depression Major,Discharge,654
+2023,38,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,1881
+2023,38,RST ROMB ED,Agitation,Discharge,2208
+2023,38,RST ROMB ED,Suicide Ideation,Admit,1045
+2023,38,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,201
+2023,38,RST ROMB ED,Suicide Ideation,Discharge,368
+2023,39,RST ROMB ED,Agitation,Discharge,307
+2023,39,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,201
+2023,39,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,3768
+2023,39,RST ROMB ED,Suicide Ideation,Admit,14709
+2023,39,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,1502
+2023,39,RST ROMB ED,Suicide Ideation,Admit,874
+2023,39,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Transfer to Health Care Facility,1557
+2023,39,RST ROMB ED,Alcohol Intoxication With Alcoholism (HCC),Hospital Observation,180
+2023,39,RST ROMB ED,Suicide Ideation,Discharge,1332
+2023,39,RST ROMB ED,Hallucination,Discharge,2232
+2023,39,RST ROMB ED,Suicide Ideation,Admit,798
+2023,40,RST ROMB ED,Depression Major Recurrent Severe Without Psychotic Features (HCC),Admit,738
+2023,40,RST ROMB ED,Schizophrenia (HCC),Admit,1663
+2023,40,RST ROMB ED,Suicide Ideation,Admit,1712
+2023,40,RST ROMB ED,Suicide Ideation,Admit,138
+2023,41,RST ROMB ED,Suicide Ideation,Discharge,4015
+2023,41,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,768
+2023,41,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,432
+2023,42,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,2288
+2023,42,RST ROMB ED,Suicide Ideation,Admit,495
+2023,42,RST ROMB ED,Suicide Ideation,Admit,1039
+2023,42,RST ROMB ED,Depression Major,Transfer to Health Care Facility,578
+2023,42,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,666
+2023,43,RST ROMB ED,Suicide Ideation,Admit,886
+2023,43,RST ROMB ED,Change Mental Status,Discharge,740
+2023,43,RST ROMB ED,Agitation,Admit,1047
+2023,43,RST ROMB ED,Agitation,Admit,3814
+2023,43,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),,1605
+2023,43,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,887
+2023,43,RST ROMB ED,Encounter For Observation For Suspected Toxic Effect From Ingested Substance Ruled Out,Discharge,483
+2023,44,RST ROMB ED,Suicide Ideation,Admit,1659
+2023,44,RST ROMB ED,Suicide Ideation,Admit,364
+2023,45,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,568
+2023,45,RST ROMB ED,Suicide Ideation,Admit,5218
+2023,45,RST ROMB ED,Suicide Ideation,Admit,75
+2023,45,RST ROMB ED,,Discharge,1258
+2023,45,RST ROMB ED,Suicide Ideation,Discharge,691
+2023,46,RST ROMB ED,,Admit,2776
+2023,46,RST ROMB ED,Suicide Ideation,Discharge,2141
+2023,46,RST ROMB ED,Schizophrenia (HCC),Admit,2377
+2023,47,RST ROMB ED,Behavioral Spell,Admit,3122
+2023,47,RST ROMB ED,Other Psychoactive Substance Moderate Or Severe Use Disorder (Dependence) Uncomplicated (HCC),Discharge,697
+2023,47,RST ROMB ED,Depression Major One Episode Moderate (HCC),Admit,509
+2023,48,RST ROMB ED,Schizophrenia Chronic (HCC),Admit,1196
+2023,48,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,7063
+2023,48,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Relocation,5597
+2023,49,RST ROMB ED,Alcohol Abuse With Intoxication Unspecified (HCC),Discharge,286
+2023,49,RST ROMB ED,Anxiety,Discharge,1763
+2023,49,RST ROMB ED,Suicide Ideation,Discharge,517
+2023,49,RST ROMB ED,Change Mental Status,Discharge,9362
+2023,49,RST ROMB ED,Anxiety,Discharge,1761
+2023,49,RST ROMB ED,Depression Major,Admit,1153
+2023,49,RST ROMB ED,Depression Major,Discharge,3775
+2023,49,RST ROMB ED,Overdose Drug Initial,Discharge,353
+2023,49,RST ROMB ED,Suicide Ideation,Discharge,9394
+2023,50,RST ROMB ED,Suicide Ideation,Admit,197
+2023,50,RST ROMB ED,Suicide Ideation,Admit,504
+2023,51,RST ROMB ED,Bipolar I Manic Severe With Psychosis One Episode (HCC),Admit,1363
+2023,51,RST ROMB ED,Schizoaffective Disorder (HCC),Discharge,2697
+2023,52,RST ROMB ED,Suicide Ideation,Relocation,191
+2023,52,RST ROMB ED,Manic Episode Severe With Psychotic Symptoms (HCC),Admit,5812
+2023,52,RST ROMB ED,Other Psychoactive Substance Moderate Or Severe Use Disorder (Dependence) With Psychoactive Substance Induced Psychotic Disorder With Delusion (HCC),Discharge,511
+2023,52,RST ROMB ED,Manic Episode Severe Without Psychotic Symptoms (HCC),Admit,1198
+2023,52,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,2939
+2023,53,RST ROMB ED,Depression Major,Discharge,3276
+2023,53,RST ROMB ED,Depression Major,Discharge,99
+2023,53,RST ROMB ED,Decline Functional Status,Discharge,2395
+2023,53,RST ROMB ED,Depression,Discharge,1015
+2023,54,RST ROMB ED,Suicide Ideation,Admit,2613
+2023,54,RST ROMB ED,Paranoid State (HCC),Discharge,689
+2023,55,RST ROMB ED,Depressed Mood,Discharge,3932
+2023,55,RST ROMB ED,Homicidal Ideations,Relocation,2599
+2023,55,RST ROMB ED,Suicide Ideation,Admit,2465
+2023,56,RST ROMB ED,Agitation,Discharge,2763
+2023,56,RST ROMB ED,Hallucination,Admit,4573
+2023,57,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,637
+2023,57,RST ROMB ED,Change Mental Status,Discharge,522
+2023,57,RST ROMB ED,Delirium,Admit,4233
+2023,57,RST ROMB ED,Mood Disorder (HCC),Transfer to Health Care Facility,556
+2023,58,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,380
+2023,58,RST ROMB ED,Pressure Injury (Ulcer) Of Sacral Region Unspecified Stage,Admit,8830
+2023,59,RST ROMB ED,Panic Disorder Episodic Paroxysmal Anxiety,Admit,900
+2023,59,RST ROMB ED,Hallucination Auditory,Discharge,549
+2023,59,RST ROMB ED,Manic Single Episode (HCC),Admit,1323
+2023,59,RST ROMB ED,Depression,Admit,489
+2023,59,RST ROMB ED,Suicide Ideation,Discharge,583
+2023,60,RST ROMB ED,Suicide Ideation,Discharge,978
+2023,61,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,1339
+2023,61,RST ROMB ED,Change Mental Status,Admit,62
+2023,61,RST ROMB ED,Change Mental Status,Discharge,379
+2023,61,RST ROMB ED,Suicide Ideation,Admit,1579
+2023,62,RST ROMB ED,Paranoid State (HCC),Discharge,1235
+2023,62,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Discharge,4149
+2023,62,RST ROMB ED,Delusional Disorder (HCC),Admit,1112
+2023,62,RST ROMB ED,Depression Major,Discharge,5191
+2023,62,RST ROMB ED,Suicide Ideation,Admit,4218
+2023,63,RST ROMB ED,Hallucination Auditory,Admit,2968
+2023,63,RST ROMB ED,Suicide Ideation,Discharge,5532
+2023,63,RST ROMB ED,Suicide Ideation,Discharge,9912
+2023,63,RST ROMB ED,,Admit,1191
+2023,63,RST ROMB ED,Suicide Ideation,Discharge,2763
+2023,63,RST ROMB ED,Suicide Ideation,Admit,1309
+2023,64,RST ROMB ED,Paranoid State (HCC),Admit,2890
+2023,64,RST ROMB ED,Depression Major,Discharge,5318
+2023,65,RST ROMB ED,Abscess Abdominal Wall,Hospital Observation,110
+2023,65,RST ROMB ED,Failure Renal Acute (Acute Kidney Injury) (HCC),Relocation,1167
+2023,65,RST ROMB ED,,Admit,1683
+2023,65,RST ROMB ED,ST Elevation Myocardial Infarction Involving Left Anterior Descending Coronary Artery (HCC),Admit,143
+2023,67,RST ROMB ED,Agitation,Admit,360
+2023,67,RST ROMB ED,Schizoaffective Disorder (HCC),Discharge,5450
+2023,68,RST ROMB ED,Suicide Ideation,Discharge,1267
+2023,68,RST ROMB ED,Schizophrenia (HCC),Admit,6502
+2023,68,RST ROMB ED,Epistaxis,Discharge,169
+2023,69,RST ROMB ED,Depression Major,Discharge,652
+2023,69,RST ROMB ED,"Major Depressive Disorder, Recurrent, Unspecified (HCC)",Admit,1150
+2023,71,RST ROMB ED,Suicide Ideation,Discharge,1356
+2023,73,RST ROMB ED,,Admit,190
+2023,73,RST ROMB ED,,Admit,1971
+2023,73,RST ROMB ED,Suicide Ideation,Admit,674
+2023,73,RST ROMB ED,Schizophrenia (HCC),Admit,3651
+2023,74,RST ROMB ED,Paranoid State (HCC),Discharge,960
+2023,75,RST ROMB ED,Suicide Ideation,Admit,2456
+2023,75,RST ROMB ED,Agitation,Discharge,2000
+2023,75,RST ROMB ED,Transient Ischemic Attack,Discharge,64
+2023,76,RST ROMB ED,Bipolar Disorder Current Episode Depressed Severe Without Psychotic Features (HCC),Admit,631
+2023,76,RST ROMB ED,Suicide Ideation,Admit,1322
+2023,80,RST ROMB ED,Depression Major,Admit,2804
+2023,81,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,2867
+2023,82,RST ROMB ED,Suicide Ideation,Admit,1403
+2024,8,RST ROMB ED,Autism Spectrum Disorder (HCC),Discharge,608
+2024,12,RST ROMB ED,Behavioral Spell,Discharge,994
+2024,12,RST ROMB ED,Agitation,Discharge,817
+2024,13,RST ROMB ED,Risk For Violent Behavior,Discharge,829
+2024,13,RST ROMB ED,Disruptive Mood Dysregulation Disorder (HCC),Discharge,1049
+2024,13,RST ROMB ED,Suicide Ideation,Discharge,715
+2024,14,RST ROMB ED,Violent Behavior,Discharge,6469
+2024,15,RST ROMB ED,Diabetes Mellitus Type 2 Without Complication (HCC),Discharge,1801
+2024,15,RST ROMB ED,Problem Behavioral Child,Discharge,3882
+2024,15,RST ROMB ED,Suicide Ideation,Discharge,790
+2024,15,RST ROMB ED,Homicidal Ideations,Discharge,857
+2024,15,RST ROMB ED,Suicide Ideation,Discharge,2804
+2024,16,RST ROMB ED,Coping Ineffective,Admit,636
+2024,16,RST ROMB ED,Problem Behavioral Adolescent,Discharge,18840
+2024,16,RST ROMB ED,Problem Behavioral Adolescent,Discharge,1181
+2024,17,RST ROMB ED,Suicide Ideation,Admit,707
+2024,17,RST ROMB ED,Problem Behavioral Adolescent,Discharge,2623
+2024,17,RST ROMB ED,Overdose Drug Initial,Admit,750
+2024,18,RST ROMB ED,Suicide Ideation,Discharge,381
+2024,18,RST ROMB ED,Suicide Ideation,Admit,1725
+2024,18,RST ROMB ED,Suicide Ideation,Discharge,121
+2024,19,RST ROMB ED,Overdose Drug Initial,Discharge,827
+2024,19,RST ROMB ED,Suicide Ideation,Admit,110
+2024,19,RST ROMB ED,Suicide Ideation,Admit,582
+2024,19,RST ROMB ED,Suicide Ideation,Discharge,1986
+2024,19,RST ROMB ED,Suicide Ideation,Discharge,724
+2024,19,RST ROMB ED,Suicide Ideation,Discharge,600
+2024,19,RST ROMB ED,Suicide Ideation,Discharge,1197
+2024,19,RST ROMB ED,Suicide Ideation,Discharge,1030
+2024,19,RST ROMB ED,Suicide Ideation,Admit,882
+2024,19,RST ROMB ED,Suicide Ideation,Admit,70
+2024,20,RST ROMB ED,Bipolar Disorder Current Episode Manic Severe Without Psychotic Features (HCC),,1324
+2024,20,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,840
+2024,20,RST ROMB ED,Suicide Ideation,Admit,317
+2024,20,RST ROMB ED,Suicide Ideation,Discharge,1508
+2024,20,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,4144
+2024,20,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,1032
+2024,20,RST ROMB ED,,Relocation,126
+2024,21,RST ROMB ED,,Admit,998
+2024,21,RST ROMB ED,Borderline Personality Disorder (HCC),Discharge,656
+2024,21,RST ROMB ED,Anxiety,Discharge,878
+2024,21,RST ROMB ED,Suicide Ideation,Admit,4829
+2024,21,RST ROMB ED,Borderline Personality Disorder (HCC),Discharge,806
+2024,21,RST ROMB ED,,Admit,4286
+2024,21,RST ROMB ED,Suicide Ideation,Discharge,20955
+2024,21,RST ROMB ED,Suicide Ideation,Admit,288
+2024,21,RST ROMB ED,Depression Major One Episode Moderate (HCC),Admit,2495
+2024,21,RST ROMB ED,Hallucination,Relocation,898
+2024,21,RST ROMB ED,Suicide Ideation,ED Observation,2302
+2024,22,RST ROMB ED,Suicide Ideation,Discharge,320
+2024,22,RST ROMB ED,Overdose Drug Initial,Admit,590
+2024,22,RST ROMB ED,Suicide Ideation,Admit,75
+2024,22,RST ROMB ED,Overdose Drug Initial,Discharge,974
+2024,22,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,595
+2024,22,RST ROMB ED,Poisoning By Benzodiazepines Undetermined Sequela,Admit,630
+2024,22,RST ROMB ED,Suicide Ideation,Admit,790
+2024,22,RST ROMB ED,Suicide Ideation,Admit,2536
+2024,22,RST ROMB ED,Adverse Effect Of Methamphetamines Initial Encounter,Transfer to Health Care Facility,771
+2024,22,RST ROMB ED,Schizoaffective Disorder (HCC),Relocation,6209
+2024,23,RST ROMB ED,Suicide Ideation,Admit,923
+2024,23,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,532
+2024,23,RST ROMB ED,Hypokalemia,Admit,2798
+2024,23,RST ROMB ED,Schizophrenia (HCC),Admit,821
+2024,23,RST ROMB ED,Anxiety Disorder Unspecified,Admit,116
+2024,24,RST ROMB ED,Suicide Ideation,Discharge,516
+2024,24,RST ROMB ED,Suicide Ideation,Admit,758
+2024,24,RST ROMB ED,Anxiety,Discharge,174
+2024,24,RST ROMB ED,Suicide Ideation,Discharge,659
+2024,24,RST ROMB ED,Suicide Ideation,Admit,1982
+2024,24,RST ROMB ED,Suicide Ideation,Discharge,1053
+2024,24,RST ROMB ED,Suicide Ideation,Admit,209
+2024,24,RST ROMB ED,Suicide Ideation,Admit,134
+2024,24,RST ROMB ED,Suicide Ideation,Admit,73
+2024,25,RST ROMB ED,Suicide Ideation,Admit,322
+2024,25,RST ROMB ED,Suicide Ideation,Discharge,633
+2024,25,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,109
+2024,25,RST ROMB ED,Suicide Ideation,Admit,1179
+2024,25,RST ROMB ED,Suicide Ideation,Relocation,2239
+2024,26,RST ROMB ED,Psychotic Brief Disorder (HCC),Admit,833
+2024,26,RST ROMB ED,Manic Episode Without Psychotic Symptoms (HCC),Admit,334
+2024,26,RST ROMB ED,Suicide Ideation,Admit,723
+2024,26,RST ROMB ED,Homicidal Ideations,Admit,835
+2024,26,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,379
+2024,26,RST ROMB ED,Suicide Ideation,Admit,1191
+2024,27,RST ROMB ED,Suicide Ideation,Discharge,538
+2024,27,RST ROMB ED,Bipolar Disorder Current Episode Manic Severe With Psychotic Features (HCC),Relocation,2949
+2024,27,RST ROMB ED,Manic Episode Severe With Psychotic Symptoms (HCC),Admit,550
+2024,27,RST ROMB ED,Laceration Arm Without Foreign Body Initial Left,Admit,56
+2024,28,RST ROMB ED,Suicide Ideation,Admit,2378
+2024,28,RST ROMB ED,Laceration Arm Without Foreign Body Initial Left,Admit,2256
+2024,28,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,569
+2024,28,RST ROMB ED,,Admit,273
+2024,28,RST ROMB ED,Bipolar Disorder (HCC),Admit,900
+2024,29,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Discharge,800
+2024,29,RST ROMB ED,Schizophrenia Paranoid (HCC),Discharge,788
+2024,29,RST ROMB ED,Suicide Ideation,Discharge,894
+2024,29,RST ROMB ED,Schizophrenia (HCC),Admit,4131
+2024,29,RST ROMB ED,Depression Major,Discharge,51
+2024,30,RST ROMB ED,Manic Disorder Recurrent (HCC),Admit,620
+2024,30,RST ROMB ED,Suicide Ideation,Admit,489
+2024,30,RST ROMB ED,Opioid Moderate Or Severe Use Disorder (Dependence) Uncomplicated (HCC),Discharge,2742
+2024,31,RST ROMB ED,Suicide Ideation,Relocation,1005
+2024,31,RST ROMB ED,Suicide Ideation,Discharge,29
+2024,31,RST ROMB ED,Laceration Forearm Without Foreign Body Initial Left,Discharge,300
+2024,32,RST ROMB ED,Paranoid State (HCC),Admit,77
+2024,32,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Relocation,1151
+2024,32,RST ROMB ED,Other Bipolar Disorder (HCC),Admit,848
+2024,32,RST ROMB ED,Suicide Ideation,Admit,1055
+2024,32,RST ROMB ED,Paranoid State (HCC),Relocation,4134
+2024,32,RST ROMB ED,Depression Anxiety,Discharge,78
+2024,32,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,2006
+2024,32,RST ROMB ED,Insomnia,Discharge,461
+2024,32,RST ROMB ED,Manic Episode Without Psychotic Symptoms (HCC),Admit,552
+2024,33,RST ROMB ED,Schizophrenia Paranoid (HCC),Relocation,1070
+2024,33,RST ROMB ED,Manic Episode Severe With Psychotic Symptoms (HCC),Relocation,1059
+2024,33,RST ROMB ED,Hallucination,Admit,2890
+2024,33,RST ROMB ED,Anxiety,Discharge,939
+2024,33,RST ROMB ED,Paranoid State (HCC),Admit,221
+2024,33,RST ROMB ED,Suicide Ideation,Admit,285
+2024,33,RST ROMB ED,Suicide Ideation,Admit,959
+2024,34,RST ROMB ED,Depression Major,Admit,30
+2024,34,RST ROMB ED,Suicide Ideation,Admit,406
+2024,34,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,534
+2024,34,RST ROMB ED,Other Hallucinations,Admit,1251
+2024,34,RST ROMB ED,Suicide Ideation,Admit,2995
+2024,34,RST ROMB ED,Suicide Ideation,Admit,943
+2024,34,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,719
+2024,35,RST ROMB ED,Suicide Ideation,Admit,1003
+2024,35,RST ROMB ED,Depression Major,Discharge,1009
+2024,35,RST ROMB ED,Pain Generalized Abdominal,Discharge,51
+2024,36,RST ROMB ED,Urinary Tract Infection Site Not Specified,Discharge,388
+2024,36,RST ROMB ED,Delusional Disorder (HCC),Relocation,4352
+2024,36,RST ROMB ED,Suicide Ideation,Discharge,539
+2024,36,RST ROMB ED,Other Stimulant Moderate Or Severe Use Disorder (Dependence) Uncomplicated (HCC),Discharge,1207
+2024,36,RST ROMB ED,Bipolar Disorder (HCC),Admit,2708
+2024,36,RST ROMB ED,Agitation,Discharge,1605
+2024,37,RST ROMB ED,Anxiety,Discharge,321
+2024,37,RST ROMB ED,Overdose Drug Initial,Admit,89
+2024,37,RST ROMB ED,Suicide Ideation,Admit,746
+2024,37,RST ROMB ED,Suicide Ideation,Discharge,3639
+2024,38,RST ROMB ED,Suicide Ideation,Discharge,2670
+2024,38,RST ROMB ED,Paranoid State (HCC),Admit,576
+2024,38,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,2469
+2024,38,RST ROMB ED,Depression,Admit,1189
+2024,38,RST ROMB ED,Suicide Ideation,Admit,109
+2024,38,RST ROMB ED,Suicide Attempt Initial Encounter (HCC),Admit,29
+2024,38,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,263
+2024,39,RST ROMB ED,,Discharge,1453
+2024,39,RST ROMB ED,Suicide Ideation,Admit,450
+2024,39,RST ROMB ED,Suicide Ideation,Discharge,1196
+2024,39,RST ROMB ED,Suicide Ideation,Admit,1420
+2024,39,RST ROMB ED,Alcohol Use Unspecified With Intoxication Unspecified (HCC),Discharge,649
+2024,39,RST ROMB ED,Agitation,Discharge,645
+2024,39,RST ROMB ED,Manic Episode Moderate Without Psychotic Symptoms (HCC),Discharge,1772
+2024,39,RST ROMB ED,Manic Episode Severe With Psychotic Symptoms (HCC),Discharge,1690
+2024,39,RST ROMB ED,Suicide Ideation,Discharge,1044
+2024,40,RST ROMB ED,Bipolar Disorder Current Episode Manic Severe Without Psychotic Features (HCC),Admit,1399
+2024,40,RST ROMB ED,Bipolar I Disorder (HCC),Admit,3592
+2024,40,RST ROMB ED,Depression Anxiety,Admit,760
+2024,41,RST ROMB ED,Problem Behavioral Adult,Relocation,753
+2024,41,RST ROMB ED,Decline Functional Status,Admit,598
+2024,42,RST ROMB ED,Suicide Ideation,Admit,1195
+2024,42,RST ROMB ED,Suicide Ideation,Relocation,2034
+2024,42,RST ROMB ED,Schizophrenia Paranoid (HCC),Admit,1790
+2024,42,RST ROMB ED,Suicide Ideation,Discharge,738
+2024,42,RST ROMB ED,Manic Single Episode (HCC),Admit,206
+2024,42,RST ROMB ED,Agitation,Discharge,670
+2024,43,RST ROMB ED,Abnormal Computed Tomography,Admit,2216
+2024,43,RST ROMB ED,Agitation,Discharge,419
+2024,43,RST ROMB ED,Paranoid State (HCC),Admit,868
+2024,43,RST ROMB ED,Delusional Disorder (HCC),Relocation,802
+2024,43,RST ROMB ED,Bipolar I Disorder (HCC),Discharge,2729
+2024,43,RST ROMB ED,Bipolar Disorder Current Episode Manic Moderate Without Psychotic Features (HCC),Admit,564
+2024,43,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Discharge,3005
+2024,44,RST ROMB ED,Schizoaffective Disorder (HCC),Discharge,940
+2024,44,RST ROMB ED,Overdose Drug Initial,Admit,750
+2024,44,RST ROMB ED,Manic Episode Unspecified (HCC),Admit,3944
+2024,44,RST ROMB ED,Suicide Ideation,Admit,699
+2024,44,RST ROMB ED,Suicide Ideation,Admit,520
+2024,44,RST ROMB ED,Manic Episode Mild Without Psychotic Symptoms (HCC),Admit,198
+2024,45,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,734
+2024,45,RST ROMB ED,Suicide Ideation,Admit,94
+2024,45,RST ROMB ED,Suicide Ideation,Admit,1102
+2024,46,RST ROMB ED,Suicide Ideation,Admit,41
+2024,46,RST ROMB ED,Other Bipolar Disorder (HCC),Relocation,1106
+2024,46,RST ROMB ED,Schizoaffective Disorder Bipolar Type (HCC),Admit,858
+2024,47,RST ROMB ED,Abdominal Pain,Admit,779
+2024,47,RST ROMB ED,Suicide Ideation,Admit,281
+2024,48,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,871
+2024,48,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,964
+2024,48,RST ROMB ED,,Discharge,1967
+2024,49,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),,1494
+2024,49,RST ROMB ED,Suicide Ideation,Admit,1509
+2024,49,RST ROMB ED,Unspecified Personality And Behavioral Disorder Due To Known Physiological Condition,Admit,1323
+2024,49,RST ROMB ED,Suicide Ideation,Admit,1361
+2024,49,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,1404
+2024,49,RST ROMB ED,Suicide Ideation,Discharge,77
+2024,49,RST ROMB ED,Suicide Ideation,Admit,868
+2024,49,RST ROMB ED,Suicide Ideation,Relocation,5011
+2024,50,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,1751
+2024,50,RST ROMB ED,Delusional Disorder (HCC),Admit,153
+2024,51,RST ROMB ED,Suicide Ideation,Admit,597
+2024,51,RST ROMB ED,Suicide Ideation,Admit,1177
+2024,51,RST ROMB ED,Violent Behavior,Discharge,1568
+2024,51,RST ROMB ED,,,1237
+2024,51,RST ROMB ED,Suicide Ideation,Admit,1162
+2024,52,RST ROMB ED,Suicide Ideation,Admit,1643
+2024,53,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,1978
+2024,53,RST ROMB ED,Suicide Ideation,Admit,5163
+2024,54,RST ROMB ED,Suicide Ideation,Discharge,2890
+2024,54,RST ROMB ED,Alcohol Abuse With Intoxication Unspecified (HCC),Discharge,1114
+2024,55,RST ROMB ED,Behavioral Spell,Discharge,876
+2024,55,RST ROMB ED,Alcohol Intoxication With Alcoholism (HCC),Discharge,1341
+2024,56,RST ROMB ED,Schizoaffective Disorder (HCC),Discharge,888
+2024,58,RST ROMB ED,Agitation,Discharge,2526
+2024,58,RST ROMB ED,Suicide Ideation,Admit,144
+2024,59,RST ROMB ED,Suicide Ideation,Discharge,2481
+2024,60,RST ROMB ED,Schizophrenia (HCC),Discharge,2489
+2024,60,RST ROMB ED,Suicide Ideation,Admit,780
+2024,61,RST ROMB ED,Suicide Ideation,Admit,895
+2024,61,RST ROMB ED,Suicide Ideation,Discharge,1006
+2024,61,RST ROMB ED,Abdominal Pain,Discharge,964
+2024,62,RST ROMB ED,Unspecified Psychosis Not Due To A Substance Or Known Physiological Condition (HCC),Admit,2493
+2024,62,RST ROMB ED,Medication Management Issue,Discharge,1651
+2024,62,RST ROMB ED,Schizoaffective Disorder (HCC),Admit,382
+2024,64,RST ROMB ED,Suicide Ideation,Admit,798
+2024,64,RST ROMB ED,Hallucination,Admit,3849
+2024,65,RST ROMB ED,Bipolar Disorder (HCC),Admit,48
+2024,65,RST ROMB ED,Hallucination,Discharge,1411
+2024,68,RST ROMB ED,Paranoid State (HCC),Admit,854
+2024,68,RST ROMB ED,Suicide Ideation,Admit,184
+2024,69,RST ROMB ED,Suicide Ideation,Admit,1245
+2024,69,RST ROMB ED,Suicide Ideation,Admit,118
+2024,73,RST ROMB ED,Depression Major,Admit,1279
+2024,74,RST ROMB ED,Suicide Ideation,Transfer to Health Care Facility,5812
+2024,75,RST ROMB ED,Change Mental Status,Admit,1463
+2024,76,RST ROMB ED,Homicidal Ideations,Admit,1355
