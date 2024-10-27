@@ -9,16 +9,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3358085333,Manufacturing,,MBA with a Bachelor's Degree in Economics,4
 3358085333,Manufacturing,,MBA with a Bachelor's Degree in Finance,4
 3358085333,Manufacturing,,MBA with a Bachelor's Degree in Marketing,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Bachelor's Degree in Accounting,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Bachelor's Degree in Business Administration or Business Management,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Bachelor's Degree in Economics,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Bachelor's Degree in Finance,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Bachelor's Degree in Marketing,3
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Accounting,3
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Business Administration/Business Management,3
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Economics,3
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Finance,3
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Marketing,3
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Bachelor's Degree in Accounting,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Bachelor's Degree in Business Administration or Business Management,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Bachelor's Degree in Economics,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Bachelor's Degree in Finance,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Bachelor's Degree in Marketing,3
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Accounting,3
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Business Administration/Business Management,3
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Economics,3
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Finance,3
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",MBA with a Bachelor's Degree in Marketing,3
 3344940626,Accommodations and Food Services,,Bachelor's Degree in Accounting,3
 3344940626,Accommodations and Food Services,,Bachelor's Degree in Business Administration or Business Management,4
 3344940626,Accommodations and Food Services,,Bachelor's Degree in Economics,2
@@ -179,16 +179,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3329536689,Health Care and Social Assistance,,MBA with a Bachelor's Degree in Economics,3
 3329536689,Health Care and Social Assistance,,MBA with a Bachelor's Degree in Finance,3
 3329536689,Health Care and Social Assistance,,MBA with a Bachelor's Degree in Marketing,3
-3329496231,Other (please specify),Agriculture,Bachelor's Degree in Accounting,3
-3329496231,Other (please specify),Agriculture,Bachelor's Degree in Business Administration or Business Management,4
-3329496231,Other (please specify),Agriculture,Bachelor's Degree in Economics,3
-3329496231,Other (please specify),Agriculture,Bachelor's Degree in Finance,4
-3329496231,Other (please specify),Agriculture,Bachelor's Degree in Marketing,3
-3329496231,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Accounting,3
-3329496231,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Business Administration/Business Management,4
-3329496231,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Economics,3
-3329496231,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Finance,4
-3329496231,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Marketing,3
+3329496231,Other Services,Agriculture,Bachelor's Degree in Accounting,3
+3329496231,Other Services,Agriculture,Bachelor's Degree in Business Administration or Business Management,4
+3329496231,Other Services,Agriculture,Bachelor's Degree in Economics,3
+3329496231,Other Services,Agriculture,Bachelor's Degree in Finance,4
+3329496231,Other Services,Agriculture,Bachelor's Degree in Marketing,3
+3329496231,Other Services,Agriculture,MBA with a Bachelor's Degree in Accounting,3
+3329496231,Other Services,Agriculture,MBA with a Bachelor's Degree in Business Administration/Business Management,4
+3329496231,Other Services,Agriculture,MBA with a Bachelor's Degree in Economics,3
+3329496231,Other Services,Agriculture,MBA with a Bachelor's Degree in Finance,4
+3329496231,Other Services,Agriculture,MBA with a Bachelor's Degree in Marketing,3
 3328824914,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Accounting,5
 3328824914,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Business Administration or Business Management,5
 3328824914,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Economics,4
@@ -199,26 +199,26 @@ RespondentID,Industry,Other (please specify),Label,Data
 3328824914,Financial Institution/Insurance/Financial Services,,MBA with a Bachelor's Degree in Economics,5
 3328824914,Financial Institution/Insurance/Financial Services,,MBA with a Bachelor's Degree in Finance,5
 3328824914,Financial Institution/Insurance/Financial Services,,MBA with a Bachelor's Degree in Marketing,2
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Accounting,3
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Business Administration or Business Management,3
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Economics,3
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Finance,3
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Marketing,3
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Accounting,3
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Business Administration/Business Management,3
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Economics,3
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Finance,
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Marketing,3
-3327165404,Other (please specify),Trucking leasing and sales,Bachelor's Degree in Accounting,3
-3327165404,Other (please specify),Trucking leasing and sales,Bachelor's Degree in Business Administration or Business Management,4
-3327165404,Other (please specify),Trucking leasing and sales,Bachelor's Degree in Economics,3
-3327165404,Other (please specify),Trucking leasing and sales,Bachelor's Degree in Finance,3
-3327165404,Other (please specify),Trucking leasing and sales,Bachelor's Degree in Marketing,3
-3327165404,Other (please specify),Trucking leasing and sales,MBA with a Bachelor's Degree in Accounting,3
-3327165404,Other (please specify),Trucking leasing and sales,MBA with a Bachelor's Degree in Business Administration/Business Management,4
-3327165404,Other (please specify),Trucking leasing and sales,MBA with a Bachelor's Degree in Economics,3
-3327165404,Other (please specify),Trucking leasing and sales,MBA with a Bachelor's Degree in Finance,3
-3327165404,Other (please specify),Trucking leasing and sales,MBA with a Bachelor's Degree in Marketing,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Accounting,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Business Administration or Business Management,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Economics,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Finance,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Bachelor's Degree in Marketing,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Accounting,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Business Administration/Business Management,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Economics,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Finance,
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",MBA with a Bachelor's Degree in Marketing,3
+3327165404,Other Services,Trucking leasing and sales,Bachelor's Degree in Accounting,3
+3327165404,Other Services,Trucking leasing and sales,Bachelor's Degree in Business Administration or Business Management,4
+3327165404,Other Services,Trucking leasing and sales,Bachelor's Degree in Economics,3
+3327165404,Other Services,Trucking leasing and sales,Bachelor's Degree in Finance,3
+3327165404,Other Services,Trucking leasing and sales,Bachelor's Degree in Marketing,3
+3327165404,Other Services,Trucking leasing and sales,MBA with a Bachelor's Degree in Accounting,3
+3327165404,Other Services,Trucking leasing and sales,MBA with a Bachelor's Degree in Business Administration/Business Management,4
+3327165404,Other Services,Trucking leasing and sales,MBA with a Bachelor's Degree in Economics,3
+3327165404,Other Services,Trucking leasing and sales,MBA with a Bachelor's Degree in Finance,3
+3327165404,Other Services,Trucking leasing and sales,MBA with a Bachelor's Degree in Marketing,3
 3325536221,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Accounting,3
 3325536221,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Business Administration or Business Management,5
 3325536221,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Economics,3
@@ -389,16 +389,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3312462773,Educational Services,,MBA with a Bachelor's Degree in Economics,5
 3312462773,Educational Services,,MBA with a Bachelor's Degree in Finance,5
 3312462773,Educational Services,,MBA with a Bachelor's Degree in Marketing,5
-3312422356,Other (please specify),communications,Bachelor's Degree in Accounting,3
-3312422356,Other (please specify),communications,Bachelor's Degree in Business Administration or Business Management,4
-3312422356,Other (please specify),communications,Bachelor's Degree in Economics,4
-3312422356,Other (please specify),communications,Bachelor's Degree in Finance,3
-3312422356,Other (please specify),communications,Bachelor's Degree in Marketing,4
-3312422356,Other (please specify),communications,MBA with a Bachelor's Degree in Accounting,3
-3312422356,Other (please specify),communications,MBA with a Bachelor's Degree in Business Administration/Business Management,4
-3312422356,Other (please specify),communications,MBA with a Bachelor's Degree in Economics,3
-3312422356,Other (please specify),communications,MBA with a Bachelor's Degree in Finance,3
-3312422356,Other (please specify),communications,MBA with a Bachelor's Degree in Marketing,3
+3312422356,Other Services,communications,Bachelor's Degree in Accounting,3
+3312422356,Other Services,communications,Bachelor's Degree in Business Administration or Business Management,4
+3312422356,Other Services,communications,Bachelor's Degree in Economics,4
+3312422356,Other Services,communications,Bachelor's Degree in Finance,3
+3312422356,Other Services,communications,Bachelor's Degree in Marketing,4
+3312422356,Other Services,communications,MBA with a Bachelor's Degree in Accounting,3
+3312422356,Other Services,communications,MBA with a Bachelor's Degree in Business Administration/Business Management,4
+3312422356,Other Services,communications,MBA with a Bachelor's Degree in Economics,3
+3312422356,Other Services,communications,MBA with a Bachelor's Degree in Finance,3
+3312422356,Other Services,communications,MBA with a Bachelor's Degree in Marketing,3
 3311382520,Manufacturing,,Bachelor's Degree in Accounting,3
 3311382520,Manufacturing,,Bachelor's Degree in Business Administration or Business Management,4
 3311382520,Manufacturing,,Bachelor's Degree in Economics,4
@@ -469,16 +469,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MBA with a Bachelor's Degree in Economics,4
 3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MBA with a Bachelor's Degree in Finance,3
 3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MBA with a Bachelor's Degree in Marketing,3
-3304366554,Other (please specify),Publishing,Bachelor's Degree in Accounting,3
-3304366554,Other (please specify),Publishing,Bachelor's Degree in Business Administration or Business Management,3
-3304366554,Other (please specify),Publishing,Bachelor's Degree in Economics,3
-3304366554,Other (please specify),Publishing,Bachelor's Degree in Finance,3
-3304366554,Other (please specify),Publishing,Bachelor's Degree in Marketing,3
-3304366554,Other (please specify),Publishing,MBA with a Bachelor's Degree in Accounting,3
-3304366554,Other (please specify),Publishing,MBA with a Bachelor's Degree in Business Administration/Business Management,3
-3304366554,Other (please specify),Publishing,MBA with a Bachelor's Degree in Economics,3
-3304366554,Other (please specify),Publishing,MBA with a Bachelor's Degree in Finance,3
-3304366554,Other (please specify),Publishing,MBA with a Bachelor's Degree in Marketing,3
+3304366554,Other Services,Publishing,Bachelor's Degree in Accounting,3
+3304366554,Other Services,Publishing,Bachelor's Degree in Business Administration or Business Management,3
+3304366554,Other Services,Publishing,Bachelor's Degree in Economics,3
+3304366554,Other Services,Publishing,Bachelor's Degree in Finance,3
+3304366554,Other Services,Publishing,Bachelor's Degree in Marketing,3
+3304366554,Other Services,Publishing,MBA with a Bachelor's Degree in Accounting,3
+3304366554,Other Services,Publishing,MBA with a Bachelor's Degree in Business Administration/Business Management,3
+3304366554,Other Services,Publishing,MBA with a Bachelor's Degree in Economics,3
+3304366554,Other Services,Publishing,MBA with a Bachelor's Degree in Finance,3
+3304366554,Other Services,Publishing,MBA with a Bachelor's Degree in Marketing,3
 3304190219,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Accounting,4
 3304190219,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Business Administration or Business Management,4
 3304190219,Financial Institution/Insurance/Financial Services,,Bachelor's Degree in Economics,4
@@ -499,26 +499,26 @@ RespondentID,Industry,Other (please specify),Label,Data
 3302327774,Health Care and Social Assistance,,MBA with a Bachelor's Degree in Economics,3
 3302327774,Health Care and Social Assistance,,MBA with a Bachelor's Degree in Finance,3
 3302327774,Health Care and Social Assistance,,MBA with a Bachelor's Degree in Marketing,3
-3301789866,Other (please specify),Media - Daily Newspaper,Bachelor's Degree in Accounting,3
-3301789866,Other (please specify),Media - Daily Newspaper,Bachelor's Degree in Business Administration or Business Management,4
-3301789866,Other (please specify),Media - Daily Newspaper,Bachelor's Degree in Economics,3
-3301789866,Other (please specify),Media - Daily Newspaper,Bachelor's Degree in Finance,3
-3301789866,Other (please specify),Media - Daily Newspaper,Bachelor's Degree in Marketing,4
-3301789866,Other (please specify),Media - Daily Newspaper,MBA with a Bachelor's Degree in Accounting,3
-3301789866,Other (please specify),Media - Daily Newspaper,MBA with a Bachelor's Degree in Business Administration/Business Management,3
-3301789866,Other (please specify),Media - Daily Newspaper,MBA with a Bachelor's Degree in Economics,3
-3301789866,Other (please specify),Media - Daily Newspaper,MBA with a Bachelor's Degree in Finance,3
-3301789866,Other (please specify),Media - Daily Newspaper,MBA with a Bachelor's Degree in Marketing,3
-3300522722,Other (please specify),Transportation,Bachelor's Degree in Accounting,5
-3300522722,Other (please specify),Transportation,Bachelor's Degree in Business Administration or Business Management,5
-3300522722,Other (please specify),Transportation,Bachelor's Degree in Economics,5
-3300522722,Other (please specify),Transportation,Bachelor's Degree in Finance,5
-3300522722,Other (please specify),Transportation,Bachelor's Degree in Marketing,5
-3300522722,Other (please specify),Transportation,MBA with a Bachelor's Degree in Accounting,5
-3300522722,Other (please specify),Transportation,MBA with a Bachelor's Degree in Business Administration/Business Management,5
-3300522722,Other (please specify),Transportation,MBA with a Bachelor's Degree in Economics,5
-3300522722,Other (please specify),Transportation,MBA with a Bachelor's Degree in Finance,5
-3300522722,Other (please specify),Transportation,MBA with a Bachelor's Degree in Marketing,5
+3301789866,Other Services,Media - Daily Newspaper,Bachelor's Degree in Accounting,3
+3301789866,Other Services,Media - Daily Newspaper,Bachelor's Degree in Business Administration or Business Management,4
+3301789866,Other Services,Media - Daily Newspaper,Bachelor's Degree in Economics,3
+3301789866,Other Services,Media - Daily Newspaper,Bachelor's Degree in Finance,3
+3301789866,Other Services,Media - Daily Newspaper,Bachelor's Degree in Marketing,4
+3301789866,Other Services,Media - Daily Newspaper,MBA with a Bachelor's Degree in Accounting,3
+3301789866,Other Services,Media - Daily Newspaper,MBA with a Bachelor's Degree in Business Administration/Business Management,3
+3301789866,Other Services,Media - Daily Newspaper,MBA with a Bachelor's Degree in Economics,3
+3301789866,Other Services,Media - Daily Newspaper,MBA with a Bachelor's Degree in Finance,3
+3301789866,Other Services,Media - Daily Newspaper,MBA with a Bachelor's Degree in Marketing,3
+3300522722,Other Services,Transportation,Bachelor's Degree in Accounting,5
+3300522722,Other Services,Transportation,Bachelor's Degree in Business Administration or Business Management,5
+3300522722,Other Services,Transportation,Bachelor's Degree in Economics,5
+3300522722,Other Services,Transportation,Bachelor's Degree in Finance,5
+3300522722,Other Services,Transportation,Bachelor's Degree in Marketing,5
+3300522722,Other Services,Transportation,MBA with a Bachelor's Degree in Accounting,5
+3300522722,Other Services,Transportation,MBA with a Bachelor's Degree in Business Administration/Business Management,5
+3300522722,Other Services,Transportation,MBA with a Bachelor's Degree in Economics,5
+3300522722,Other Services,Transportation,MBA with a Bachelor's Degree in Finance,5
+3300522722,Other Services,Transportation,MBA with a Bachelor's Degree in Marketing,5
 3300416365,Health Care and Social Assistance,,Bachelor's Degree in Accounting,4
 3300416365,Health Care and Social Assistance,,Bachelor's Degree in Business Administration or Business Management,5
 3300416365,Health Care and Social Assistance,,Bachelor's Degree in Economics,4
@@ -619,16 +619,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3279215502,Manufacturing,,MBA with a Bachelor's Degree in Economics,2
 3279215502,Manufacturing,,MBA with a Bachelor's Degree in Finance,2
 3279215502,Manufacturing,,MBA with a Bachelor's Degree in Marketing,5
-3279193635,Other (please specify),Distribution,Bachelor's Degree in Accounting,3
-3279193635,Other (please specify),Distribution,Bachelor's Degree in Business Administration or Business Management,5
-3279193635,Other (please specify),Distribution,Bachelor's Degree in Economics,3
-3279193635,Other (please specify),Distribution,Bachelor's Degree in Finance,3
-3279193635,Other (please specify),Distribution,Bachelor's Degree in Marketing,4
-3279193635,Other (please specify),Distribution,MBA with a Bachelor's Degree in Accounting,3
-3279193635,Other (please specify),Distribution,MBA with a Bachelor's Degree in Business Administration/Business Management,5
-3279193635,Other (please specify),Distribution,MBA with a Bachelor's Degree in Economics,4
-3279193635,Other (please specify),Distribution,MBA with a Bachelor's Degree in Finance,4
-3279193635,Other (please specify),Distribution,MBA with a Bachelor's Degree in Marketing,4
+3279193635,Other Services,Distribution,Bachelor's Degree in Accounting,3
+3279193635,Other Services,Distribution,Bachelor's Degree in Business Administration or Business Management,5
+3279193635,Other Services,Distribution,Bachelor's Degree in Economics,3
+3279193635,Other Services,Distribution,Bachelor's Degree in Finance,3
+3279193635,Other Services,Distribution,Bachelor's Degree in Marketing,4
+3279193635,Other Services,Distribution,MBA with a Bachelor's Degree in Accounting,3
+3279193635,Other Services,Distribution,MBA with a Bachelor's Degree in Business Administration/Business Management,5
+3279193635,Other Services,Distribution,MBA with a Bachelor's Degree in Economics,4
+3279193635,Other Services,Distribution,MBA with a Bachelor's Degree in Finance,4
+3279193635,Other Services,Distribution,MBA with a Bachelor's Degree in Marketing,4
 3278824712,Government/Not-For-Profit,,Bachelor's Degree in Accounting,3
 3278824712,Government/Not-For-Profit,,Bachelor's Degree in Business Administration or Business Management,3
 3278824712,Government/Not-For-Profit,,Bachelor's Degree in Economics,3
@@ -649,16 +649,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3277762658,Retail Trade,,MBA with a Bachelor's Degree in Economics,4
 3277762658,Retail Trade,,MBA with a Bachelor's Degree in Finance,5
 3277762658,Retail Trade,,MBA with a Bachelor's Degree in Marketing,5
-3277423655,Other (please specify),Telecommunications,Bachelor's Degree in Accounting,4
-3277423655,Other (please specify),Telecommunications,Bachelor's Degree in Business Administration or Business Management,5
-3277423655,Other (please specify),Telecommunications,Bachelor's Degree in Economics,5
-3277423655,Other (please specify),Telecommunications,Bachelor's Degree in Finance,4
-3277423655,Other (please specify),Telecommunications,Bachelor's Degree in Marketing,4
-3277423655,Other (please specify),Telecommunications,MBA with a Bachelor's Degree in Accounting,4
-3277423655,Other (please specify),Telecommunications,MBA with a Bachelor's Degree in Business Administration/Business Management,5
-3277423655,Other (please specify),Telecommunications,MBA with a Bachelor's Degree in Economics,5
-3277423655,Other (please specify),Telecommunications,MBA with a Bachelor's Degree in Finance,4
-3277423655,Other (please specify),Telecommunications,MBA with a Bachelor's Degree in Marketing,4
+3277423655,Other Services,Telecommunications,Bachelor's Degree in Accounting,4
+3277423655,Other Services,Telecommunications,Bachelor's Degree in Business Administration or Business Management,5
+3277423655,Other Services,Telecommunications,Bachelor's Degree in Economics,5
+3277423655,Other Services,Telecommunications,Bachelor's Degree in Finance,4
+3277423655,Other Services,Telecommunications,Bachelor's Degree in Marketing,4
+3277423655,Other Services,Telecommunications,MBA with a Bachelor's Degree in Accounting,4
+3277423655,Other Services,Telecommunications,MBA with a Bachelor's Degree in Business Administration/Business Management,5
+3277423655,Other Services,Telecommunications,MBA with a Bachelor's Degree in Economics,5
+3277423655,Other Services,Telecommunications,MBA with a Bachelor's Degree in Finance,4
+3277423655,Other Services,Telecommunications,MBA with a Bachelor's Degree in Marketing,4
 3277074458,Manufacturing,,Bachelor's Degree in Accounting,3
 3277074458,Manufacturing,,Bachelor's Degree in Business Administration or Business Management,3
 3277074458,Manufacturing,,Bachelor's Degree in Economics,3
@@ -689,16 +689,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3276789950,Government/Not-For-Profit,,MBA with a Bachelor's Degree in Economics,5
 3276789950,Government/Not-For-Profit,,MBA with a Bachelor's Degree in Finance,4
 3276789950,Government/Not-For-Profit,,MBA with a Bachelor's Degree in Marketing,5
-3276777805,Other (please specify),Fulfillment/Printing,Bachelor's Degree in Accounting,4
-3276777805,Other (please specify),Fulfillment/Printing,Bachelor's Degree in Business Administration or Business Management,4
-3276777805,Other (please specify),Fulfillment/Printing,Bachelor's Degree in Economics,4
-3276777805,Other (please specify),Fulfillment/Printing,Bachelor's Degree in Finance,4
-3276777805,Other (please specify),Fulfillment/Printing,Bachelor's Degree in Marketing,4
-3276777805,Other (please specify),Fulfillment/Printing,MBA with a Bachelor's Degree in Accounting,3
-3276777805,Other (please specify),Fulfillment/Printing,MBA with a Bachelor's Degree in Business Administration/Business Management,3
-3276777805,Other (please specify),Fulfillment/Printing,MBA with a Bachelor's Degree in Economics,3
-3276777805,Other (please specify),Fulfillment/Printing,MBA with a Bachelor's Degree in Finance,3
-3276777805,Other (please specify),Fulfillment/Printing,MBA with a Bachelor's Degree in Marketing,3
+3276777805,Other Services,Fulfillment/Printing,Bachelor's Degree in Accounting,4
+3276777805,Other Services,Fulfillment/Printing,Bachelor's Degree in Business Administration or Business Management,4
+3276777805,Other Services,Fulfillment/Printing,Bachelor's Degree in Economics,4
+3276777805,Other Services,Fulfillment/Printing,Bachelor's Degree in Finance,4
+3276777805,Other Services,Fulfillment/Printing,Bachelor's Degree in Marketing,4
+3276777805,Other Services,Fulfillment/Printing,MBA with a Bachelor's Degree in Accounting,3
+3276777805,Other Services,Fulfillment/Printing,MBA with a Bachelor's Degree in Business Administration/Business Management,3
+3276777805,Other Services,Fulfillment/Printing,MBA with a Bachelor's Degree in Economics,3
+3276777805,Other Services,Fulfillment/Printing,MBA with a Bachelor's Degree in Finance,3
+3276777805,Other Services,Fulfillment/Printing,MBA with a Bachelor's Degree in Marketing,3
 3276726733,Government/Not-For-Profit,,Bachelor's Degree in Accounting,3
 3276726733,Government/Not-For-Profit,,Bachelor's Degree in Business Administration or Business Management,5
 3276726733,Government/Not-For-Profit,,Bachelor's Degree in Economics,3
@@ -709,16 +709,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3276726733,Government/Not-For-Profit,,MBA with a Bachelor's Degree in Economics,3
 3276726733,Government/Not-For-Profit,,MBA with a Bachelor's Degree in Finance,4
 3276726733,Government/Not-For-Profit,,MBA with a Bachelor's Degree in Marketing,4
-3275170817,Other (please specify),Agriculture,Bachelor's Degree in Accounting,5
-3275170817,Other (please specify),Agriculture,Bachelor's Degree in Business Administration or Business Management,5
-3275170817,Other (please specify),Agriculture,Bachelor's Degree in Economics,4
-3275170817,Other (please specify),Agriculture,Bachelor's Degree in Finance,5
-3275170817,Other (please specify),Agriculture,Bachelor's Degree in Marketing,4
-3275170817,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Accounting,5
-3275170817,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Business Administration/Business Management,5
-3275170817,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Economics,4
-3275170817,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Finance,5
-3275170817,Other (please specify),Agriculture,MBA with a Bachelor's Degree in Marketing,4
+3275170817,Other Services,Agriculture,Bachelor's Degree in Accounting,5
+3275170817,Other Services,Agriculture,Bachelor's Degree in Business Administration or Business Management,5
+3275170817,Other Services,Agriculture,Bachelor's Degree in Economics,4
+3275170817,Other Services,Agriculture,Bachelor's Degree in Finance,5
+3275170817,Other Services,Agriculture,Bachelor's Degree in Marketing,4
+3275170817,Other Services,Agriculture,MBA with a Bachelor's Degree in Accounting,5
+3275170817,Other Services,Agriculture,MBA with a Bachelor's Degree in Business Administration/Business Management,5
+3275170817,Other Services,Agriculture,MBA with a Bachelor's Degree in Economics,4
+3275170817,Other Services,Agriculture,MBA with a Bachelor's Degree in Finance,5
+3275170817,Other Services,Agriculture,MBA with a Bachelor's Degree in Marketing,4
 3275093124,Manufacturing,,Bachelor's Degree in Accounting,4
 3275093124,Manufacturing,,Bachelor's Degree in Business Administration or Business Management,5
 3275093124,Manufacturing,,Bachelor's Degree in Economics,4
@@ -759,16 +759,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3274913575,Financial Institution/Insurance/Financial Services,,MBA with a Bachelor's Degree in Economics,4
 3274913575,Financial Institution/Insurance/Financial Services,,MBA with a Bachelor's Degree in Finance,5
 3274913575,Financial Institution/Insurance/Financial Services,,MBA with a Bachelor's Degree in Marketing,5
-3274295629,Other (please specify),Staffing,Bachelor's Degree in Accounting,5
-3274295629,Other (please specify),Staffing,Bachelor's Degree in Business Administration or Business Management,5
-3274295629,Other (please specify),Staffing,Bachelor's Degree in Economics,5
-3274295629,Other (please specify),Staffing,Bachelor's Degree in Finance,5
-3274295629,Other (please specify),Staffing,Bachelor's Degree in Marketing,5
-3274295629,Other (please specify),Staffing,MBA with a Bachelor's Degree in Accounting,4
-3274295629,Other (please specify),Staffing,MBA with a Bachelor's Degree in Business Administration/Business Management,4
-3274295629,Other (please specify),Staffing,MBA with a Bachelor's Degree in Economics,4
-3274295629,Other (please specify),Staffing,MBA with a Bachelor's Degree in Finance,4
-3274295629,Other (please specify),Staffing,MBA with a Bachelor's Degree in Marketing,4
+3274295629,Other Services,Staffing,Bachelor's Degree in Accounting,5
+3274295629,Other Services,Staffing,Bachelor's Degree in Business Administration or Business Management,5
+3274295629,Other Services,Staffing,Bachelor's Degree in Economics,5
+3274295629,Other Services,Staffing,Bachelor's Degree in Finance,5
+3274295629,Other Services,Staffing,Bachelor's Degree in Marketing,5
+3274295629,Other Services,Staffing,MBA with a Bachelor's Degree in Accounting,4
+3274295629,Other Services,Staffing,MBA with a Bachelor's Degree in Business Administration/Business Management,4
+3274295629,Other Services,Staffing,MBA with a Bachelor's Degree in Economics,4
+3274295629,Other Services,Staffing,MBA with a Bachelor's Degree in Finance,4
+3274295629,Other Services,Staffing,MBA with a Bachelor's Degree in Marketing,4
 3274060746,Government/Not-For-Profit,,Bachelor's Degree in Accounting,4
 3274060746,Government/Not-For-Profit,,Bachelor's Degree in Business Administration or Business Management,5
 3274060746,Government/Not-For-Profit,,Bachelor's Degree in Economics,4
@@ -829,26 +829,26 @@ RespondentID,Industry,Other (please specify),Label,Data
 3269208438,Construction,,MBA with a Bachelor's Degree in Economics,3
 3269208438,Construction,,MBA with a Bachelor's Degree in Finance,3
 3269208438,Construction,,MBA with a Bachelor's Degree in Marketing,5
-3268939829,Other (please specify),Staffing and Recruiting,Bachelor's Degree in Accounting,5
-3268939829,Other (please specify),Staffing and Recruiting,Bachelor's Degree in Business Administration or Business Management,5
-3268939829,Other (please specify),Staffing and Recruiting,Bachelor's Degree in Economics,5
-3268939829,Other (please specify),Staffing and Recruiting,Bachelor's Degree in Finance,5
-3268939829,Other (please specify),Staffing and Recruiting,Bachelor's Degree in Marketing,5
-3268939829,Other (please specify),Staffing and Recruiting,MBA with a Bachelor's Degree in Accounting,5
-3268939829,Other (please specify),Staffing and Recruiting,MBA with a Bachelor's Degree in Business Administration/Business Management,5
-3268939829,Other (please specify),Staffing and Recruiting,MBA with a Bachelor's Degree in Economics,5
-3268939829,Other (please specify),Staffing and Recruiting,MBA with a Bachelor's Degree in Finance,5
-3268939829,Other (please specify),Staffing and Recruiting,MBA with a Bachelor's Degree in Marketing,5
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Bachelor's Degree in Accounting,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Bachelor's Degree in Business Administration or Business Management,5
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Bachelor's Degree in Economics,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Bachelor's Degree in Finance,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Bachelor's Degree in Marketing,5
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Accounting,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Business Administration/Business Management,5
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Economics,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Finance,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Marketing,5
+3268939829,Other Services,Staffing and Recruiting,Bachelor's Degree in Accounting,5
+3268939829,Other Services,Staffing and Recruiting,Bachelor's Degree in Business Administration or Business Management,5
+3268939829,Other Services,Staffing and Recruiting,Bachelor's Degree in Economics,5
+3268939829,Other Services,Staffing and Recruiting,Bachelor's Degree in Finance,5
+3268939829,Other Services,Staffing and Recruiting,Bachelor's Degree in Marketing,5
+3268939829,Other Services,Staffing and Recruiting,MBA with a Bachelor's Degree in Accounting,5
+3268939829,Other Services,Staffing and Recruiting,MBA with a Bachelor's Degree in Business Administration/Business Management,5
+3268939829,Other Services,Staffing and Recruiting,MBA with a Bachelor's Degree in Economics,5
+3268939829,Other Services,Staffing and Recruiting,MBA with a Bachelor's Degree in Finance,5
+3268939829,Other Services,Staffing and Recruiting,MBA with a Bachelor's Degree in Marketing,5
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Bachelor's Degree in Accounting,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Bachelor's Degree in Business Administration or Business Management,5
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Bachelor's Degree in Economics,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Bachelor's Degree in Finance,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Bachelor's Degree in Marketing,5
+3268843543,Other Services,Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Accounting,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Business Administration/Business Management,5
+3268843543,Other Services,Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Economics,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Finance,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,MBA with a Bachelor's Degree in Marketing,5
 3266749095,Wholesale Trade,,Bachelor's Degree in Accounting,4
 3266749095,Wholesale Trade,,Bachelor's Degree in Business Administration or Business Management,5
 3266749095,Wholesale Trade,,Bachelor's Degree in Economics,3
@@ -929,26 +929,26 @@ RespondentID,Industry,Other (please specify),Label,Data
 3261633484,Retail Trade,,MBA with a Bachelor's Degree in Economics,3
 3261633484,Retail Trade,,MBA with a Bachelor's Degree in Finance,3
 3261633484,Retail Trade,,MBA with a Bachelor's Degree in Marketing,1
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Bachelor's Degree in Accounting,4
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Bachelor's Degree in Business Administration or Business Management,5
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Bachelor's Degree in Economics,3
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Bachelor's Degree in Finance,2
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Bachelor's Degree in Marketing,2
-3261410347,Other (please specify),Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Accounting,2
-3261410347,Other (please specify),Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Business Administration/Business Management,2
-3261410347,Other (please specify),Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Economics,2
-3261410347,Other (please specify),Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Finance,2
-3261410347,Other (please specify),Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Marketing,2
-3261337319,Other (please specify),Hospitality,Bachelor's Degree in Accounting,4
-3261337319,Other (please specify),Hospitality,Bachelor's Degree in Business Administration or Business Management,5
-3261337319,Other (please specify),Hospitality,Bachelor's Degree in Economics,4
-3261337319,Other (please specify),Hospitality,Bachelor's Degree in Finance,4
-3261337319,Other (please specify),Hospitality,Bachelor's Degree in Marketing,4
-3261337319,Other (please specify),Hospitality,MBA with a Bachelor's Degree in Accounting,5
-3261337319,Other (please specify),Hospitality,MBA with a Bachelor's Degree in Business Administration/Business Management,5
-3261337319,Other (please specify),Hospitality,MBA with a Bachelor's Degree in Economics,5
-3261337319,Other (please specify),Hospitality,MBA with a Bachelor's Degree in Finance,5
-3261337319,Other (please specify),Hospitality,MBA with a Bachelor's Degree in Marketing,5
+3261410347,Other Services,Wastewater treatment and collection - Government,Bachelor's Degree in Accounting,4
+3261410347,Other Services,Wastewater treatment and collection - Government,Bachelor's Degree in Business Administration or Business Management,5
+3261410347,Other Services,Wastewater treatment and collection - Government,Bachelor's Degree in Economics,3
+3261410347,Other Services,Wastewater treatment and collection - Government,Bachelor's Degree in Finance,2
+3261410347,Other Services,Wastewater treatment and collection - Government,Bachelor's Degree in Marketing,2
+3261410347,Other Services,Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Accounting,2
+3261410347,Other Services,Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Business Administration/Business Management,2
+3261410347,Other Services,Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Economics,2
+3261410347,Other Services,Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Finance,2
+3261410347,Other Services,Wastewater treatment and collection - Government,MBA with a Bachelor's Degree in Marketing,2
+3261337319,Other Services,Hospitality,Bachelor's Degree in Accounting,4
+3261337319,Other Services,Hospitality,Bachelor's Degree in Business Administration or Business Management,5
+3261337319,Other Services,Hospitality,Bachelor's Degree in Economics,4
+3261337319,Other Services,Hospitality,Bachelor's Degree in Finance,4
+3261337319,Other Services,Hospitality,Bachelor's Degree in Marketing,4
+3261337319,Other Services,Hospitality,MBA with a Bachelor's Degree in Accounting,5
+3261337319,Other Services,Hospitality,MBA with a Bachelor's Degree in Business Administration/Business Management,5
+3261337319,Other Services,Hospitality,MBA with a Bachelor's Degree in Economics,5
+3261337319,Other Services,Hospitality,MBA with a Bachelor's Degree in Finance,5
+3261337319,Other Services,Hospitality,MBA with a Bachelor's Degree in Marketing,5
 3259556454,Retail Trade,,Bachelor's Degree in Accounting,4
 3259556454,Retail Trade,,Bachelor's Degree in Business Administration or Business Management,4
 3259556454,Retail Trade,,Bachelor's Degree in Economics,4

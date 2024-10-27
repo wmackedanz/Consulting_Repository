@@ -4,11 +4,11 @@ RespondentID,Industry,Other (please specify),Label,Data
 3358085333,Manufacturing,,Economics,5
 3358085333,Manufacturing,,Finance,5
 3358085333,Manufacturing,,Marketing,5
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Accounting,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Business Administration/Business Management,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Economics,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Finance,4
-3347231259,Other (please specify),"Healthcare, Financial & Customer Service.",Marketing,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Accounting,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Business Administration/Business Management,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Economics,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Finance,4
+3347231259,Other Services,"Healthcare, Financial & Customer Service.",Marketing,4
 3344940626,Accommodations and Food Services,,Accounting,4
 3344940626,Accommodations and Food Services,,Business Administration/Business Management,4
 3344940626,Accommodations and Food Services,,Economics,4
@@ -89,26 +89,26 @@ RespondentID,Industry,Other (please specify),Label,Data
 3329536689,Health Care and Social Assistance,,Economics,3
 3329536689,Health Care and Social Assistance,,Finance,3
 3329536689,Health Care and Social Assistance,,Marketing,3
-3329496231,Other (please specify),Agriculture,Accounting,4
-3329496231,Other (please specify),Agriculture,Business Administration/Business Management,5
-3329496231,Other (please specify),Agriculture,Economics,4
-3329496231,Other (please specify),Agriculture,Finance,5
-3329496231,Other (please specify),Agriculture,Marketing,4
+3329496231,Other Services,Agriculture,Accounting,4
+3329496231,Other Services,Agriculture,Business Administration/Business Management,5
+3329496231,Other Services,Agriculture,Economics,4
+3329496231,Other Services,Agriculture,Finance,5
+3329496231,Other Services,Agriculture,Marketing,4
 3328824914,Financial Institution/Insurance/Financial Services,,Accounting,5
 3328824914,Financial Institution/Insurance/Financial Services,,Business Administration/Business Management,5
 3328824914,Financial Institution/Insurance/Financial Services,,Economics,5
 3328824914,Financial Institution/Insurance/Financial Services,,Finance,5
 3328824914,Financial Institution/Insurance/Financial Services,,Marketing,2
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Accounting,4
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Business Administration/Business Management,4
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Economics,4
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Finance,4
-3328059998,Other (please specify),"Financial assistance and health care, child support, community health and social services",Marketing,4
-3327165404,Other (please specify),Trucking leasing and sales,Accounting,3
-3327165404,Other (please specify),Trucking leasing and sales,Business Administration/Business Management,4
-3327165404,Other (please specify),Trucking leasing and sales,Economics,3
-3327165404,Other (please specify),Trucking leasing and sales,Finance,3
-3327165404,Other (please specify),Trucking leasing and sales,Marketing,3
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Accounting,4
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Business Administration/Business Management,4
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Economics,4
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Finance,4
+3328059998,Other Services,"Financial assistance and health care, child support, community health and social services",Marketing,4
+3327165404,Other Services,Trucking leasing and sales,Accounting,3
+3327165404,Other Services,Trucking leasing and sales,Business Administration/Business Management,4
+3327165404,Other Services,Trucking leasing and sales,Economics,3
+3327165404,Other Services,Trucking leasing and sales,Finance,3
+3327165404,Other Services,Trucking leasing and sales,Marketing,3
 3325536221,Financial Institution/Insurance/Financial Services,,Accounting,4
 3325536221,Financial Institution/Insurance/Financial Services,,Business Administration/Business Management,4
 3325536221,Financial Institution/Insurance/Financial Services,,Economics,4
@@ -194,11 +194,11 @@ RespondentID,Industry,Other (please specify),Label,Data
 3312462773,Educational Services,,Economics,5
 3312462773,Educational Services,,Finance,5
 3312462773,Educational Services,,Marketing,5
-3312422356,Other (please specify),communications,Accounting,3
-3312422356,Other (please specify),communications,Business Administration/Business Management,5
-3312422356,Other (please specify),communications,Economics,4
-3312422356,Other (please specify),communications,Finance,3
-3312422356,Other (please specify),communications,Marketing,5
+3312422356,Other Services,communications,Accounting,3
+3312422356,Other Services,communications,Business Administration/Business Management,5
+3312422356,Other Services,communications,Economics,4
+3312422356,Other Services,communications,Finance,3
+3312422356,Other Services,communications,Marketing,5
 3311382520,Manufacturing,,Accounting,4
 3311382520,Manufacturing,,Business Administration/Business Management,5
 3311382520,Manufacturing,,Economics,5
@@ -234,11 +234,11 @@ RespondentID,Industry,Other (please specify),Label,Data
 3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)",,Economics,4
 3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)",,Finance,4
 3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)",,Marketing,4
-3304366554,Other (please specify),Publishing,Accounting,5
-3304366554,Other (please specify),Publishing,Business Administration/Business Management,5
-3304366554,Other (please specify),Publishing,Economics,5
-3304366554,Other (please specify),Publishing,Finance,5
-3304366554,Other (please specify),Publishing,Marketing,5
+3304366554,Other Services,Publishing,Accounting,5
+3304366554,Other Services,Publishing,Business Administration/Business Management,5
+3304366554,Other Services,Publishing,Economics,5
+3304366554,Other Services,Publishing,Finance,5
+3304366554,Other Services,Publishing,Marketing,5
 3304190219,Financial Institution/Insurance/Financial Services,,Accounting,5
 3304190219,Financial Institution/Insurance/Financial Services,,Business Administration/Business Management,5
 3304190219,Financial Institution/Insurance/Financial Services,,Economics,5
@@ -249,16 +249,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3302327774,Health Care and Social Assistance,,Economics,4
 3302327774,Health Care and Social Assistance,,Finance,4
 3302327774,Health Care and Social Assistance,,Marketing,4
-3301789866,Other (please specify),Media - Daily Newspaper,Accounting,3
-3301789866,Other (please specify),Media - Daily Newspaper,Business Administration/Business Management,3
-3301789866,Other (please specify),Media - Daily Newspaper,Economics,4
-3301789866,Other (please specify),Media - Daily Newspaper,Finance,3
-3301789866,Other (please specify),Media - Daily Newspaper,Marketing,4
-3300522722,Other (please specify),Transportation,Accounting,5
-3300522722,Other (please specify),Transportation,Business Administration/Business Management,5
-3300522722,Other (please specify),Transportation,Economics,5
-3300522722,Other (please specify),Transportation,Finance,5
-3300522722,Other (please specify),Transportation,Marketing,5
+3301789866,Other Services,Media - Daily Newspaper,Accounting,3
+3301789866,Other Services,Media - Daily Newspaper,Business Administration/Business Management,3
+3301789866,Other Services,Media - Daily Newspaper,Economics,4
+3301789866,Other Services,Media - Daily Newspaper,Finance,3
+3301789866,Other Services,Media - Daily Newspaper,Marketing,4
+3300522722,Other Services,Transportation,Accounting,5
+3300522722,Other Services,Transportation,Business Administration/Business Management,5
+3300522722,Other Services,Transportation,Economics,5
+3300522722,Other Services,Transportation,Finance,5
+3300522722,Other Services,Transportation,Marketing,5
 3300416365,Health Care and Social Assistance,,Accounting,4
 3300416365,Health Care and Social Assistance,,Business Administration/Business Management,4
 3300416365,Health Care and Social Assistance,,Economics,4
@@ -309,11 +309,11 @@ RespondentID,Industry,Other (please specify),Label,Data
 3279215502,Manufacturing,,Economics,4
 3279215502,Manufacturing,,Finance,3
 3279215502,Manufacturing,,Marketing,5
-3279193635,Other (please specify),Distribution,Accounting,4
-3279193635,Other (please specify),Distribution,Business Administration/Business Management,4
-3279193635,Other (please specify),Distribution,Economics,4
-3279193635,Other (please specify),Distribution,Finance,4
-3279193635,Other (please specify),Distribution,Marketing,4
+3279193635,Other Services,Distribution,Accounting,4
+3279193635,Other Services,Distribution,Business Administration/Business Management,4
+3279193635,Other Services,Distribution,Economics,4
+3279193635,Other Services,Distribution,Finance,4
+3279193635,Other Services,Distribution,Marketing,4
 3278824712,Government/Not-For-Profit,,Accounting,3
 3278824712,Government/Not-For-Profit,,Business Administration/Business Management,4
 3278824712,Government/Not-For-Profit,,Economics,3
@@ -324,11 +324,11 @@ RespondentID,Industry,Other (please specify),Label,Data
 3277762658,Retail Trade,,Economics,4
 3277762658,Retail Trade,,Finance,5
 3277762658,Retail Trade,,Marketing,5
-3277423655,Other (please specify),Telecommunications,Accounting,4
-3277423655,Other (please specify),Telecommunications,Business Administration/Business Management,5
-3277423655,Other (please specify),Telecommunications,Economics,5
-3277423655,Other (please specify),Telecommunications,Finance,4
-3277423655,Other (please specify),Telecommunications,Marketing,4
+3277423655,Other Services,Telecommunications,Accounting,4
+3277423655,Other Services,Telecommunications,Business Administration/Business Management,5
+3277423655,Other Services,Telecommunications,Economics,5
+3277423655,Other Services,Telecommunications,Finance,4
+3277423655,Other Services,Telecommunications,Marketing,4
 3277074458,Manufacturing,,Accounting,2
 3277074458,Manufacturing,,Business Administration/Business Management,5
 3277074458,Manufacturing,,Economics,2
@@ -344,21 +344,21 @@ RespondentID,Industry,Other (please specify),Label,Data
 3276789950,Government/Not-For-Profit,,Economics,4
 3276789950,Government/Not-For-Profit,,Finance,3
 3276789950,Government/Not-For-Profit,,Marketing,4
-3276777805,Other (please specify),Fulfillment/Printing,Accounting,5
-3276777805,Other (please specify),Fulfillment/Printing,Business Administration/Business Management,5
-3276777805,Other (please specify),Fulfillment/Printing,Economics,5
-3276777805,Other (please specify),Fulfillment/Printing,Finance,5
-3276777805,Other (please specify),Fulfillment/Printing,Marketing,5
+3276777805,Other Services,Fulfillment/Printing,Accounting,5
+3276777805,Other Services,Fulfillment/Printing,Business Administration/Business Management,5
+3276777805,Other Services,Fulfillment/Printing,Economics,5
+3276777805,Other Services,Fulfillment/Printing,Finance,5
+3276777805,Other Services,Fulfillment/Printing,Marketing,5
 3276726733,Government/Not-For-Profit,,Accounting,3
 3276726733,Government/Not-For-Profit,,Business Administration/Business Management,5
 3276726733,Government/Not-For-Profit,,Economics,3
 3276726733,Government/Not-For-Profit,,Finance,4
 3276726733,Government/Not-For-Profit,,Marketing,4
-3275170817,Other (please specify),Agriculture,Accounting,5
-3275170817,Other (please specify),Agriculture,Business Administration/Business Management,5
-3275170817,Other (please specify),Agriculture,Economics,5
-3275170817,Other (please specify),Agriculture,Finance,5
-3275170817,Other (please specify),Agriculture,Marketing,4
+3275170817,Other Services,Agriculture,Accounting,5
+3275170817,Other Services,Agriculture,Business Administration/Business Management,5
+3275170817,Other Services,Agriculture,Economics,5
+3275170817,Other Services,Agriculture,Finance,5
+3275170817,Other Services,Agriculture,Marketing,4
 3275093124,Manufacturing,,Accounting,4
 3275093124,Manufacturing,,Business Administration/Business Management,5
 3275093124,Manufacturing,,Economics,4
@@ -379,11 +379,11 @@ RespondentID,Industry,Other (please specify),Label,Data
 3274913575,Financial Institution/Insurance/Financial Services,,Economics,5
 3274913575,Financial Institution/Insurance/Financial Services,,Finance,5
 3274913575,Financial Institution/Insurance/Financial Services,,Marketing,5
-3274295629,Other (please specify),Staffing,Accounting,5
-3274295629,Other (please specify),Staffing,Business Administration/Business Management,5
-3274295629,Other (please specify),Staffing,Economics,5
-3274295629,Other (please specify),Staffing,Finance,5
-3274295629,Other (please specify),Staffing,Marketing,5
+3274295629,Other Services,Staffing,Accounting,5
+3274295629,Other Services,Staffing,Business Administration/Business Management,5
+3274295629,Other Services,Staffing,Economics,5
+3274295629,Other Services,Staffing,Finance,5
+3274295629,Other Services,Staffing,Marketing,5
 3274060746,Government/Not-For-Profit,,Accounting,5
 3274060746,Government/Not-For-Profit,,Business Administration/Business Management,5
 3274060746,Government/Not-For-Profit,,Economics,4
@@ -414,16 +414,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3269208438,Construction,,Economics,2
 3269208438,Construction,,Finance,3
 3269208438,Construction,,Marketing,4
-3268939829,Other (please specify),Staffing and Recruiting,Accounting,5
-3268939829,Other (please specify),Staffing and Recruiting,Business Administration/Business Management,5
-3268939829,Other (please specify),Staffing and Recruiting,Economics,5
-3268939829,Other (please specify),Staffing and Recruiting,Finance,5
-3268939829,Other (please specify),Staffing and Recruiting,Marketing,5
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Accounting,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Business Administration/Business Management,5
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Economics,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Finance,4
-3268843543,Other (please specify),Temporary to Permanent Placement Staffing,Marketing,5
+3268939829,Other Services,Staffing and Recruiting,Accounting,5
+3268939829,Other Services,Staffing and Recruiting,Business Administration/Business Management,5
+3268939829,Other Services,Staffing and Recruiting,Economics,5
+3268939829,Other Services,Staffing and Recruiting,Finance,5
+3268939829,Other Services,Staffing and Recruiting,Marketing,5
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Accounting,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Business Administration/Business Management,5
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Economics,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Finance,4
+3268843543,Other Services,Temporary to Permanent Placement Staffing,Marketing,5
 3266749095,Wholesale Trade,,Accounting,3
 3266749095,Wholesale Trade,,Business Administration/Business Management,4
 3266749095,Wholesale Trade,,Economics,3
@@ -464,16 +464,16 @@ RespondentID,Industry,Other (please specify),Label,Data
 3261633484,Retail Trade,,Economics,4
 3261633484,Retail Trade,,Finance,4
 3261633484,Retail Trade,,Marketing,3
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Accounting,3
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Business Administration/Business Management,3
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Economics,2
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Finance,2
-3261410347,Other (please specify),Wastewater treatment and collection - Government,Marketing,1
-3261337319,Other (please specify),Hospitality,Accounting,5
-3261337319,Other (please specify),Hospitality,Business Administration/Business Management,5
-3261337319,Other (please specify),Hospitality,Economics,4
-3261337319,Other (please specify),Hospitality,Finance,4
-3261337319,Other (please specify),Hospitality,Marketing,4
+3261410347,Other Services,Wastewater treatment and collection - Government,Accounting,3
+3261410347,Other Services,Wastewater treatment and collection - Government,Business Administration/Business Management,3
+3261410347,Other Services,Wastewater treatment and collection - Government,Economics,2
+3261410347,Other Services,Wastewater treatment and collection - Government,Finance,2
+3261410347,Other Services,Wastewater treatment and collection - Government,Marketing,1
+3261337319,Other Services,Hospitality,Accounting,5
+3261337319,Other Services,Hospitality,Business Administration/Business Management,5
+3261337319,Other Services,Hospitality,Economics,4
+3261337319,Other Services,Hospitality,Finance,4
+3261337319,Other Services,Hospitality,Marketing,4
 3259556454,Retail Trade,,Accounting,5
 3259556454,Retail Trade,,Business Administration/Business Management,5
 3259556454,Retail Trade,,Economics,5
