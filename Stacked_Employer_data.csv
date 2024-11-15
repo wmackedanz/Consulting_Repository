@@ -637,64 +637,64 @@
 3334835644,"Real Estate, Property Management, Rental","Less than $7,000,000",COMMUNICATIONS ,Professionalism,4
 3334835644,"Real Estate, Property Management, Rental","Less than $7,000,000",COMMUNICATIONS ,Public Speaking,4
 3334835644,"Real Estate, Property Management, Rental","Less than $7,000,000",COMMUNICATIONS ,Small Group Communications,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Financial Accounting,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Managerial/Cost Accounting,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Auditing,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Business Income Tax,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Fraud Detection/Internal Controls,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Fund/Non-Profit Accounting,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Intermediate Level Financial Accounting,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Advanced Financial Accounting,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ACCOUNTING ,Intermediate Level Managerial/Cost Accounting,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ECONOMICS ,Macroeconomics,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ECONOMICS ,Microeconomics,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ECONOMICS ,Business Statistics,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ECONOMICS ,Econometrics,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ECONOMICS ,International Economics,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ECONOMICS ,Intermediate Macroeconomics,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,ECONOMICS ,Intermediate Microeconomics,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,FINANCE ,Principles of Finance,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,FINANCE ,Employee Benefit Planning,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,FINANCE ,Financial Analysis,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,FINANCE ,Insurance & Risk Management,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,FINANCE ,Legal Aspects of Banking & Finance,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,FINANCE ,Personal Financial Management,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,FINANCE ,Securities Analysis,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,FINANCE ,Short-Term Financial Management,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Principles of Marketing,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Consumer Behavior,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,International Marketing,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Internet Marketing,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Marketing Management,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Marketing Research & Analysis,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Product and Pricing Strategy,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Professional Selling,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Promotional Strategy,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MARKETING ,Sales Management,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Principles of Management,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Business Intelligence/Data Mining/Decision Support Systems,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Business Internship,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,"Business Law - Contracts, Sales & Professional Responsibility",4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Business Law - Legal & Regulatory Environment,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Business Policy & Strategic Management,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Human Resource Management,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Interdisciplinary Management Capstone Course,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,International Business,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Management Information Systems (MIS),5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Organizational Behavior,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Process Management,4
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Production/Operations Management,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,MANAGEMENT ,Project Management,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Business Communications (oral and written),5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Business Ethics,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Intercultural Communications,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Interpersonal Communications,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Leadership,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Organizational Communication,3
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Professionalism,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Public Speaking,5
-3334833418,"Professional Services (Accounting, Legal, Engineering, Marketing)",,COMMUNICATIONS ,Small Group Communications,5
+3334833418,Professional Services,,ACCOUNTING ,Financial Accounting,5
+3334833418,Professional Services,,ACCOUNTING ,Managerial/Cost Accounting,5
+3334833418,Professional Services,,ACCOUNTING ,Auditing,5
+3334833418,Professional Services,,ACCOUNTING ,Business Income Tax,4
+3334833418,Professional Services,,ACCOUNTING ,Fraud Detection/Internal Controls,4
+3334833418,Professional Services,,ACCOUNTING ,Fund/Non-Profit Accounting,4
+3334833418,Professional Services,,ACCOUNTING ,Intermediate Level Financial Accounting,5
+3334833418,Professional Services,,ACCOUNTING ,Advanced Financial Accounting,5
+3334833418,Professional Services,,ACCOUNTING ,Intermediate Level Managerial/Cost Accounting,5
+3334833418,Professional Services,,ECONOMICS ,Macroeconomics,4
+3334833418,Professional Services,,ECONOMICS ,Microeconomics,4
+3334833418,Professional Services,,ECONOMICS ,Business Statistics,4
+3334833418,Professional Services,,ECONOMICS ,Econometrics,3
+3334833418,Professional Services,,ECONOMICS ,International Economics,3
+3334833418,Professional Services,,ECONOMICS ,Intermediate Macroeconomics,3
+3334833418,Professional Services,,ECONOMICS ,Intermediate Microeconomics,3
+3334833418,Professional Services,,FINANCE ,Principles of Finance,3
+3334833418,Professional Services,,FINANCE ,Employee Benefit Planning,4
+3334833418,Professional Services,,FINANCE ,Financial Analysis,3
+3334833418,Professional Services,,FINANCE ,Insurance & Risk Management,3
+3334833418,Professional Services,,FINANCE ,Legal Aspects of Banking & Finance,3
+3334833418,Professional Services,,FINANCE ,Personal Financial Management,4
+3334833418,Professional Services,,FINANCE ,Securities Analysis,3
+3334833418,Professional Services,,FINANCE ,Short-Term Financial Management,3
+3334833418,Professional Services,,MARKETING ,Principles of Marketing,3
+3334833418,Professional Services,,MARKETING ,Consumer Behavior,3
+3334833418,Professional Services,,MARKETING ,International Marketing,3
+3334833418,Professional Services,,MARKETING ,Internet Marketing,3
+3334833418,Professional Services,,MARKETING ,Marketing Management,3
+3334833418,Professional Services,,MARKETING ,Marketing Research & Analysis,3
+3334833418,Professional Services,,MARKETING ,Product and Pricing Strategy,3
+3334833418,Professional Services,,MARKETING ,Professional Selling,5
+3334833418,Professional Services,,MARKETING ,Promotional Strategy,4
+3334833418,Professional Services,,MARKETING ,Sales Management,4
+3334833418,Professional Services,,MANAGEMENT ,Principles of Management,4
+3334833418,Professional Services,,MANAGEMENT ,Business Intelligence/Data Mining/Decision Support Systems,3
+3334833418,Professional Services,,MANAGEMENT ,Business Internship,5
+3334833418,Professional Services,,MANAGEMENT ,"Business Law - Contracts, Sales & Professional Responsibility",4
+3334833418,Professional Services,,MANAGEMENT ,Business Law - Legal & Regulatory Environment,4
+3334833418,Professional Services,,MANAGEMENT ,Business Policy & Strategic Management,4
+3334833418,Professional Services,,MANAGEMENT ,Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software,4
+3334833418,Professional Services,,MANAGEMENT ,Human Resource Management,3
+3334833418,Professional Services,,MANAGEMENT ,Interdisciplinary Management Capstone Course,3
+3334833418,Professional Services,,MANAGEMENT ,International Business,3
+3334833418,Professional Services,,MANAGEMENT ,Management Information Systems (MIS),5
+3334833418,Professional Services,,MANAGEMENT ,Organizational Behavior,3
+3334833418,Professional Services,,MANAGEMENT ,Process Management,4
+3334833418,Professional Services,,MANAGEMENT ,Production/Operations Management,3
+3334833418,Professional Services,,MANAGEMENT ,Project Management,3
+3334833418,Professional Services,,COMMUNICATIONS ,Business Communications (oral and written),5
+3334833418,Professional Services,,COMMUNICATIONS ,Business Ethics,5
+3334833418,Professional Services,,COMMUNICATIONS ,Intercultural Communications,3
+3334833418,Professional Services,,COMMUNICATIONS ,Interpersonal Communications,3
+3334833418,Professional Services,,COMMUNICATIONS ,Leadership,5
+3334833418,Professional Services,,COMMUNICATIONS ,Organizational Communication,3
+3334833418,Professional Services,,COMMUNICATIONS ,Professionalism,5
+3334833418,Professional Services,,COMMUNICATIONS ,Public Speaking,5
+3334833418,Professional Services,,COMMUNICATIONS ,Small Group Communications,5
 3334535207,Retail Trade,"$500,000,000 or more",ACCOUNTING ,Financial Accounting,2
 3334535207,Retail Trade,"$500,000,000 or more",ACCOUNTING ,Managerial/Cost Accounting,2
 3334535207,Retail Trade,"$500,000,000 or more",ACCOUNTING ,Auditing,2
@@ -927,64 +927,64 @@
 3329808253,Health Care and Social Assistance,"$500,000,000 or more",COMMUNICATIONS ,Professionalism,5
 3329808253,Health Care and Social Assistance,"$500,000,000 or more",COMMUNICATIONS ,Public Speaking,5
 3329808253,Health Care and Social Assistance,"$500,000,000 or more",COMMUNICATIONS ,Small Group Communications,2
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Financial Accounting,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Managerial/Cost Accounting,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Auditing,2
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Business Income Tax,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Fraud Detection/Internal Controls,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Fund/Non-Profit Accounting,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Intermediate Level Financial Accounting,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Advanced Financial Accounting,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ACCOUNTING ,Intermediate Level Managerial/Cost Accounting,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ECONOMICS ,Macroeconomics,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ECONOMICS ,Microeconomics,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ECONOMICS ,Business Statistics,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ECONOMICS ,Econometrics,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ECONOMICS ,International Economics,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ECONOMICS ,Intermediate Macroeconomics,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",ECONOMICS ,Intermediate Microeconomics,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",FINANCE ,Principles of Finance,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",FINANCE ,Employee Benefit Planning,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",FINANCE ,Financial Analysis,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",FINANCE ,Insurance & Risk Management,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",FINANCE ,Legal Aspects of Banking & Finance,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",FINANCE ,Personal Financial Management,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",FINANCE ,Securities Analysis,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",FINANCE ,Short-Term Financial Management,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Principles of Marketing,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Consumer Behavior,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,International Marketing,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Internet Marketing,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Marketing Management,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Marketing Research & Analysis,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Product and Pricing Strategy,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Professional Selling,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Promotional Strategy,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MARKETING ,Sales Management,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Principles of Management,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Business Intelligence/Data Mining/Decision Support Systems,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Business Internship,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,"Business Law - Contracts, Sales & Professional Responsibility",5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Business Law - Legal & Regulatory Environment,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Business Policy & Strategic Management,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Human Resource Management,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Interdisciplinary Management Capstone Course,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,International Business,2
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Management Information Systems (MIS),4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Organizational Behavior,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Process Management,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Production/Operations Management,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",MANAGEMENT ,Project Management,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Business Communications (oral and written),5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Business Ethics,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Intercultural Communications,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Interpersonal Communications,3
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Leadership,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Organizational Communication,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Professionalism,4
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Public Speaking,5
-3329580120,"Professional Services (Accounting, Legal, Engineering, Marketing)","$50,000,000 - $99,999,999",COMMUNICATIONS ,Small Group Communications,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Financial Accounting,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Managerial/Cost Accounting,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Auditing,2
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Business Income Tax,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Fraud Detection/Internal Controls,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Fund/Non-Profit Accounting,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Intermediate Level Financial Accounting,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Advanced Financial Accounting,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ACCOUNTING ,Intermediate Level Managerial/Cost Accounting,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ECONOMICS ,Macroeconomics,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ECONOMICS ,Microeconomics,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ECONOMICS ,Business Statistics,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ECONOMICS ,Econometrics,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ECONOMICS ,International Economics,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ECONOMICS ,Intermediate Macroeconomics,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",ECONOMICS ,Intermediate Microeconomics,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",FINANCE ,Principles of Finance,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",FINANCE ,Employee Benefit Planning,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",FINANCE ,Financial Analysis,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",FINANCE ,Insurance & Risk Management,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",FINANCE ,Legal Aspects of Banking & Finance,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",FINANCE ,Personal Financial Management,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",FINANCE ,Securities Analysis,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",FINANCE ,Short-Term Financial Management,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Principles of Marketing,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Consumer Behavior,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,International Marketing,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Internet Marketing,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Marketing Management,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Marketing Research & Analysis,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Product and Pricing Strategy,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Professional Selling,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Promotional Strategy,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MARKETING ,Sales Management,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Principles of Management,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Business Intelligence/Data Mining/Decision Support Systems,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Business Internship,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,"Business Law - Contracts, Sales & Professional Responsibility",5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Business Law - Legal & Regulatory Environment,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Business Policy & Strategic Management,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Human Resource Management,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Interdisciplinary Management Capstone Course,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,International Business,2
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Management Information Systems (MIS),4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Organizational Behavior,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Process Management,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Production/Operations Management,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",MANAGEMENT ,Project Management,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Business Communications (oral and written),5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Business Ethics,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Intercultural Communications,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Interpersonal Communications,3
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Leadership,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Organizational Communication,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Professionalism,4
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Public Speaking,5
+3329580120,Professional Services,"$50,000,000 - $99,999,999",COMMUNICATIONS ,Small Group Communications,5
 3329536689,Health Care and Social Assistance,"Less than $7,000,000",ACCOUNTING ,Financial Accounting,4
 3329536689,Health Care and Social Assistance,"Less than $7,000,000",ACCOUNTING ,Managerial/Cost Accounting,4
 3329536689,Health Care and Social Assistance,"Less than $7,000,000",ACCOUNTING ,Auditing,5
@@ -2667,64 +2667,64 @@
 3305074297,Financial Institution/Insurance/Financial Services,"$25,000,000 - $49,999,999",COMMUNICATIONS ,Professionalism,4
 3305074297,Financial Institution/Insurance/Financial Services,"$25,000,000 - $49,999,999",COMMUNICATIONS ,Public Speaking,4
 3305074297,Financial Institution/Insurance/Financial Services,"$25,000,000 - $49,999,999",COMMUNICATIONS ,Small Group Communications,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Financial Accounting,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Managerial/Cost Accounting,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Auditing,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Business Income Tax,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Fraud Detection/Internal Controls,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Fund/Non-Profit Accounting,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Intermediate Level Financial Accounting,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Advanced Financial Accounting,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ACCOUNTING ,Intermediate Level Managerial/Cost Accounting,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ECONOMICS ,Macroeconomics,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ECONOMICS ,Microeconomics,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ECONOMICS ,Business Statistics,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ECONOMICS ,Econometrics,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ECONOMICS ,International Economics,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ECONOMICS ,Intermediate Macroeconomics,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",ECONOMICS ,Intermediate Microeconomics,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",FINANCE ,Principles of Finance,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",FINANCE ,Employee Benefit Planning,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",FINANCE ,Financial Analysis,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",FINANCE ,Insurance & Risk Management,5
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",FINANCE ,Legal Aspects of Banking & Finance,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",FINANCE ,Personal Financial Management,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",FINANCE ,Securities Analysis,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",FINANCE ,Short-Term Financial Management,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Principles of Marketing,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Consumer Behavior,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,International Marketing,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Internet Marketing,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Marketing Management,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Marketing Research & Analysis,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Product and Pricing Strategy,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Professional Selling,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Promotional Strategy,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MARKETING ,Sales Management,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Principles of Management,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Business Intelligence/Data Mining/Decision Support Systems,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Business Internship,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,"Business Law - Contracts, Sales & Professional Responsibility",4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Business Law - Legal & Regulatory Environment,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Business Policy & Strategic Management,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Human Resource Management,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Interdisciplinary Management Capstone Course,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,International Business,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Management Information Systems (MIS),3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Organizational Behavior,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Process Management,
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Production/Operations Management,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",MANAGEMENT ,Project Management,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Business Communications (oral and written),4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Business Ethics,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Intercultural Communications,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Interpersonal Communications,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Leadership,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Organizational Communication,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Professionalism,4
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Public Speaking,3
-3304900712,"Professional Services (Accounting, Legal, Engineering, Marketing)","$100,000,000-$499,999,999",COMMUNICATIONS ,Small Group Communications,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Financial Accounting,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Managerial/Cost Accounting,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Auditing,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Business Income Tax,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Fraud Detection/Internal Controls,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Fund/Non-Profit Accounting,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Intermediate Level Financial Accounting,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Advanced Financial Accounting,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ACCOUNTING ,Intermediate Level Managerial/Cost Accounting,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ECONOMICS ,Macroeconomics,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ECONOMICS ,Microeconomics,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ECONOMICS ,Business Statistics,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ECONOMICS ,Econometrics,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ECONOMICS ,International Economics,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ECONOMICS ,Intermediate Macroeconomics,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",ECONOMICS ,Intermediate Microeconomics,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",FINANCE ,Principles of Finance,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",FINANCE ,Employee Benefit Planning,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",FINANCE ,Financial Analysis,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",FINANCE ,Insurance & Risk Management,5
+3304900712,Professional Services,"$100,000,000-$499,999,999",FINANCE ,Legal Aspects of Banking & Finance,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",FINANCE ,Personal Financial Management,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",FINANCE ,Securities Analysis,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",FINANCE ,Short-Term Financial Management,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Principles of Marketing,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Consumer Behavior,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,International Marketing,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Internet Marketing,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Marketing Management,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Marketing Research & Analysis,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Product and Pricing Strategy,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Professional Selling,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Promotional Strategy,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MARKETING ,Sales Management,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Principles of Management,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Business Intelligence/Data Mining/Decision Support Systems,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Business Internship,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,"Business Law - Contracts, Sales & Professional Responsibility",4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Business Law - Legal & Regulatory Environment,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Business Policy & Strategic Management,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Business Software Applications/Microsoft Office and Enterprise Resource Planning (ERP) software,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Human Resource Management,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Interdisciplinary Management Capstone Course,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,International Business,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Management Information Systems (MIS),3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Organizational Behavior,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Process Management,
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Production/Operations Management,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",MANAGEMENT ,Project Management,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Business Communications (oral and written),4
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Business Ethics,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Intercultural Communications,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Interpersonal Communications,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Leadership,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Organizational Communication,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Professionalism,4
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Public Speaking,3
+3304900712,Professional Services,"$100,000,000-$499,999,999",COMMUNICATIONS ,Small Group Communications,4
 3304366554,Other Services,"Less than $7,000,000",ACCOUNTING ,Financial Accounting,2
 3304366554,Other Services,"Less than $7,000,000",ACCOUNTING ,Managerial/Cost Accounting,2
 3304366554,Other Services,"Less than $7,000,000",ACCOUNTING ,Auditing,1
